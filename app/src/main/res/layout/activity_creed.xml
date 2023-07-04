@@ -1,0 +1,89 @@
+<!--<?xml version="1.0" encoding="utf-8"?>-->
+<!--<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--            xmlns:tools="http://schemas.android.com/tools"-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="match_parent"-->
+<!--            android:padding="16dp"-->
+<!--            android:orientation="vertical"-->
+<!--            tools:context="com.rhinepereira.saints.CreedActivity">-->
+<!--    <LinearLayout-->
+<!--            android:layout_width="match_parent"-->
+<!--            android:layout_height="wrap_content"-->
+<!--            android:orientation="vertical">-->
+
+<!--        <TextView-->
+<!--                android:id="@+id/textView1"-->
+<!--                android:layout_width="wrap_content"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:text="@string/apostles"-->
+<!--                android:visibility="gone"-->
+<!--                android:layout_marginBottom="32dp"-->
+<!--                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+
+<!--        <TextView-->
+<!--                android:id="@+id/textView"-->
+<!--                android:layout_width="match_parent"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:textIsSelectable="true"-->
+<!--                android:text="@string/creed"-->
+<!--                android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+
+<!--        &lt;!&ndash;        <TextView&ndash;&gt;-->
+<!--        &lt;!&ndash;                android:layout_width="wrap_content"&ndash;&gt;-->
+<!--        &lt;!&ndash;                android:layout_height="wrap_content"&ndash;&gt;-->
+<!--        &lt;!&ndash;                android:id="@+id/creed_mar"&ndash;&gt;-->
+<!--        &lt;!&ndash;                android:layout_marginTop="40dp"&ndash;&gt;-->
+<!--        &lt;!&ndash;                android:textIsSelectable="true"&ndash;&gt;-->
+<!--        &lt;!&ndash;                android:textAppearance="@style/TextAppearance.AppCompat.Large"&ndash;&gt;-->
+<!--        &lt;!&ndash;                android:text="@string/cred_mar">&ndash;&gt;-->
+
+<!--        &lt;!&ndash;        </TextView>&ndash;&gt;-->
+
+
+<!--    </LinearLayout>-->
+<!--</ScrollView>-->
+<ScrollView
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        tools:context=".CreedActivity">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+        <com.google.android.material.tabs.TabLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/tab_layout">
+
+
+            <com.google.android.material.tabs.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="English">
+
+            </com.google.android.material.tabs.TabItem>
+            <com.google.android.material.tabs.TabItem
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="मराठी">
+
+            </com.google.android.material.tabs.TabItem>
+        </com.google.android.material.tabs.TabLayout>
+
+        <androidx.viewpager2.widget.ViewPager2
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/view_page">
+
+        </androidx.viewpager2.widget.ViewPager2>
+
+
+    </LinearLayout>
+
+</ScrollView>

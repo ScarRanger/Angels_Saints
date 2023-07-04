@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp"
+    tools:context="com.rhinepereira.saints.AngelActivity2">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <Button
+                android:id="@+id/button10"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Brief about Angels"/>
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="1.Seraphim"/>
+
+        <Button
+            android:id="@+id/button1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="2.Cherubim"/>
+        <Button
+            android:id="@+id/button2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="3.Thrones"/>
+        <Button
+            android:id="@+id/button3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="4.Dominions or Lordships"/>
+        <Button
+            android:id="@+id/button4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="5.Virtues or Strongholds"/>
+        <Button
+                android:id="@+id/button9"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="6.Powers"/>
+        <Button
+            android:id="@+id/button5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="7.Principalities or Rulers"/>
+        <Button
+            android:id="@+id/button6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="8.Archangels"/>
+        <Button
+            android:id="@+id/button7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="9.Angels"/>
+        <Button
+            android:id="@+id/button8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Guardian Angels"/>
+
+       <!-- <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_gravity="center"
+            android:layout_marginTop="32dp"
+            android:textIsSelectable="true"
+            android:text="@string/hierarchy"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:textIsSelectable="true"
+            android:text="@string/highest"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:textIsSelectable="true"
+            android:text="@string/cherubim_rank"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:textIsSelectable="true"
+            android:text="@string/thrones_are"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:textIsSelectable="true"
+            android:text="@string/dominions_are"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:textIsSelectable="true"
+            android:text="@string/virtues_are"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:textIsSelectable="true"
+            android:text="@string/powers"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:textIsSelectable="true"
+            android:text="@string/archangels"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/these_are_the_pics_of_the_7_archangels"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/raguel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/_1_michael"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+       <ImageView
+           android:layout_width="wrap_content"
+           android:layout_height="500dp"
+           android:src="@drawable/st_michael"/>
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/_3_gabriel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            app:srcCompat="@drawable/gabriel"/>
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/_2_raphael"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            app:srcCompat="@drawable/rafael"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/_4_uriel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            app:srcCompat="@drawable/uriel2"/>
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/_5_simiel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            app:srcCompat="@drawable/archangelsimiel"/>
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/_6_oriphiel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            app:srcCompat="@drawable/oripliel"/>
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/_7_raguel"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="500dp"
+            app:srcCompat="@drawable/raguel"/>
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/Principle"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/the"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/personal"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:layout_gravity="center"
+            android:text="Angels in Old Testament"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/at"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:layout_gravity="center"
+            android:text="Angels in New Testament"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginTop="48dp"
+            android:text="@string/appeared"
+            android:textAppearance="@style/TextAppearance.AppCompat.Large" />-->
+    </LinearLayout>
+
+</ScrollView>

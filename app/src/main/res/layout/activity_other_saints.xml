@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:orientation="vertical"
+    tools:context="com.rhinepereira.saints.OtherSaintsActivity">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+
+
+
+  <Button
+          android:id="@+id/button14"
+          android:layout_height="wrap_content"
+          android:layout_width="match_parent"
+          style="@style/otherst"
+          android:text=" st.joseph"/>
+  <Button
+      android:id="@+id/button2"
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      style="@style/otherst"
+      android:text=" st.mark"/>
+
+  <Button
+      android:id="@+id/button3"
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      style="@style/otherst"
+      android:text=" st.luke"/>
+
+
+
+  <Button
+      android:id="@+id/button4"
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      style="@style/otherst"
+      android:text=" st.paul"/>
+
+
+
+  <Button
+      android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+      android:id="@+id/button5"
+      style="@style/otherst"
+      android:text="St francis xavier"/>
+
+
+
+  <Button
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      android:id="@+id/button6"
+      style="@style/otherst"
+      android:text=" st.Gonsalo garcia"/>
+
+  <Button
+      android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+      android:id="@+id/button7"
+      style="@style/otherst"
+      android:text="st.anthony of padua"/>
+
+
+
+
+
+  <Button
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      android:id="@+id/button8"
+      style="@style/otherst"
+      android:text=" st.Teresa of calcutta "/>
+
+  <Button
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      android:id="@+id/button9"
+      style="@style/otherst"
+      android:text=" st.alphonsa"/>
+
+
+  <Button
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      android:id="@+id/button10"
+      style="@style/otherst"
+      android:text=" st.Padre PIo"/>
+
+  <Button
+      android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+      android:id="@+id/button11"
+      style="@style/otherst"
+      android:text="St.mary magdelene"/>
+
+
+
+  <Button
+      android:layout_height="wrap_content"
+      android:layout_width="match_parent"
+      style="@style/otherst"
+      android:id="@+id/button12"
+      android:text=" st.mary faustina"/>
+
+  <Button
+      android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+      style="@style/otherst"
+      android:id="@+id/button13"
+      android:text="st.teresa of child jesus"/>
+  <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          style="@style/otherst"
+          android:id="@+id/button15"
+          android:text="st.francis of assisi"/>
+  <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          style="@style/otherst"
+          android:id="@+id/button16"
+          android:text="st.Clare"/>
+  <Button
+          android:layout_width="match_parent"
+          android:layout_height="wrap_content"
+          style="@style/otherst"
+          android:id="@+id/button17"
+          android:text="st.bernadatte"/>
+
+
+
+ <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical">-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_1_st_mark"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+       <!--<TextView-->
+           <!--android:layout_width="match_parent"-->
+           <!--android:layout_height="wrap_content"-->
+           <!--android:textIsSelectable="true"-->
+           <!--android:text="@string/mark2"-->
+           <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/st_mark"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_2_st_luke"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/luke2"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/luke_icon"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_3_st_paul"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/paul"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/saint_paul_"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_4_st_francis_xavier"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/xavier"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/stfrancisxavier"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/gonsalog"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/gonsalo"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/st_gonsalo_garcia"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_6_st_francis_of_assisi"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/assissi"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/saintfrancis"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_7_st_anthony_of_padua"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/anthony"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/st_anthony_of_padua_"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_8_st_theresa_of_calcutta"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/theresa"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/teresa"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_9_st_alphonsa"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/alphonso"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/st_alphonsa"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_10_st_padre_pio"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/pio"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/padrepio"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_11_st_mary_magdalena"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/mary"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/stmarymagdelane"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_12_st_mary_faustina"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/fastina"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/stfaustina"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/_13_st_theresa_of_child_jesus"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/teresa"-->
+            <!--android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:src="@drawable/therese_child_jesus"/>-->
+    <!--</LinearLayout>-->
+</LinearLayout>
+
+
+
+</ScrollView>

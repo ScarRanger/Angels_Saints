@@ -1,0 +1,1575 @@
+<resources>
+    <string name="app_name">Angels and Saints</string>
+    <string name="creed">I believe in God, the Father Almighty, Creator of Heaven and earth; and
+        in Jesus Christ, His only Son, Our Lord, Who was conceived by the Holy Spirit, born of the Virgin Mary, suffered
+        under Pontius Pilate, was crucified; died, and was buried. He descended into Hell; the third day He arose again
+        from the dead; He ascended into Heaven, sitteth at the right hand of God, the Father Almighty; from thence He
+        shall come to judge the living and the dead. I believe in the Holy Spirit, the holy Catholic Church, the
+        communion of saints, the forgiveness of sins, the resurrection of the body, and the life everlasting. \n\nAmen.
+        \n\n\n
+
+    </string>
+    <string name="apostles">Apostles\' Creed</string>
+    <string name="god_the_father">Lords Prayer</string>
+    <string name="our_father">Our Father who art in heaven, hallowed be thy name. Thy kingdom come.
+        Thy will be done on earth as it is in heaven. \n\nGive us this day our daily bread, and forgive us our
+        trespasses,
+        as we forgive those who trespass against us, and lead us not into temptation, but deliver us from evil.
+
+        For thine is the kingdom, and the power, and the glory, for ever and ever.
+        \n\n
+        Amen.\n\n\n
+
+
+    </string>
+    <string name="our_father_mar">
+        आमच्या स्वर्गीयबापा\n\n
+
+        आमच्या स्वर्गीय बापा, तुझे नाव पवित्र मानले जावो, तुझे राज्य येवो. जसे स्वर्गात तसे पृथ्वीवरही तुझ्या
+        इच्छेप्रमाणे होवो. \n\nआमची दररोजची भाकर आज आम्हाला दे. जशी आम्ही आमचा अपराध करणाऱ्यांना क्षमा करतो तशी तू
+        आमच्या अपराधांची क्षमा कर आणि आम्हाला मोहात पडू देऊ नकोस पण वाईटापासून आम्हाला सोडव. \n\nआमेन.
+    </string>
+    <string name="hail_mary">Hail Mary</string>
+    <string name="hailmary">Hail Mary, full of grace. Our Lord is with you. Blessed are you among women,
+        and blessed is the fruit of your womb, Jesus.\n \nHoly Mary, Mother of God pray for us sinners, now and at the
+        hour of our death. \n \nAmen
+
+
+    </string>
+    <string name="hail_mar">
+        नमो कृपापूर्ण मरिये, प्रभू तुझ्या ठायी आहे. धन्य तू स्त्रियांमध्ये धन्य तुझ्या उदराचे फळ येशू.\n\n
+        हे पवित्र मरिये, देवाचे माते, आम्हा पाप्यांसाठी आता आणि आमच्या मरणाच्या वेळी विनंती कर, \n\nआमेन.
+    </string>
+    <string name="holy_queen">Hail holy queen</string>
+    <string name="hail_queen">Hail, holy Queen, Mother of Mercy! Our life, our sweetness, and our hope! To thee do we
+        cry, poor banished children of Eve, to thee do we send up our sighs, mourning and weeping in this valley, of
+        tears. Turn, then, most gracious advocate, thine eyes of mercy toward us; and after this our exile show unto us
+        the blessed fruit of thy womb Jesus; O clement, O loving, O sweet virgin Mary. Pray for us, O holy Mother of God
+        That we may be made worthy of the promises of Christ.
+        \n\n\n
+
+    </string>
+    <string name="holy_mar">
+        नमस्कार हे राणी\n\n
+
+        नमस्कार हे राणी, दयेचे माते ! तू आमचे जीवन, आमचे माधुर्य आणि आमची आशा, तुला नमस्कार असो. तुझ्याकडे आम्ही देशपार
+        झालेली एवेची मुले मोठ्याने आक्रोश करतो. तुझ्याकडे आम्ही या अश्रूंच्या दरीत शोक करत व रडत सुस्कारे टाकतो. तूच तर
+        आमची कैवारीण आहेस, म्हणून तू आपली दयेची दृष्टी आम्हाकडे लाव आणि आमच्या या देशपारीनंतर तुझ्या उदराचे आशीर्वादित
+        फळ येशू याचे आम्हाला दर्शन घडव. हे कृपाळू, हे ममताळू, हे मधुर कुमारी मरिया.\n\n
+        - ख्रिस्ताने दिलेल्या वचनास आम्ही पात्र व्हावे म्हणून हे पवित्र देवमाते, आम्हासाठी विनंती कर.
+    </string>
+    <string name="fatima_prayer">Fatima Prayer</string>
+    <string name="jesus">Oh my Jesus, forgive us of our sins. Save us from the fires of hell. Lead all
+        souls into heaven, especially those in most need of thy mercy.\n
+
+
+    </string>
+    <string name="fatima_mar">
+        हे येशू, आमच्या पापांची क्षमा कर. पापदंडापासून आमचे रक्षण कर. सर्व मनुष्यांना आणि विशेषकरून ज्यांना तुझ्या
+        दयेची अधिक गरज आहे त्यांना स्वर्गाकडे ने. \n\nआमेन.
+    </string>
+    <string name="holy_communion">Prayers after Holy Communion</string>
+    <string name="blood">What has passed our lips as food, O Lord, may we possess
+        in purity of heart, that what is given to us in time, be our healing for eternity. May Your Body, O Lord, which
+        I have eaten, and Your Blood which I have drunk, cleave to my very soul, and grant that no trace of sin be found
+        in me, whom these pure and holy mysteries have renewed. Who live and reign, world without end. Amen. We humbly
+        beseech You, almighty god, to grant that those whom You refresh with Your sacraments, may serve you worthily by
+        a life well pleasing to You. Through our Lord Jesus Christ, Your Son, Who lives and reigns, world without end.
+        Amen.
+    </string>
+    <string name="_creed">Apostles Creed</string>
+    <string name="lords">lords prayer</string>
+    <string name="hail">Hail Mary</string>
+    <string name="queen">Hail Holy Queen</string>
+    <string name="communion">Prayer after holy communion</string>
+    <string name="simon">\nPeter, who was also known as Simon Peter of Cephas, is considered the first Pope. Despite his
+        papacy, Peter had humble beginnings and became one of the Twelve Apostles of Jesus. He was ordained by Jesus as
+        the \"Rock of My Church\" written in Matthew 16:18, which says, \"And I tell you that you are Peter,and on this
+        rock I will build my church, and the gates of Hades will not overcome it.\"
+        \n\n
+        Peter was a native of Bethsaida, near Lake Tiberias and was the son of Jonah. He and his brother Andrew were
+        fishermen on Lake Genesareth. Peter followed Jesus and his life was changed forever. Though he was one of the
+        first disciples called to follow Jesus and eventually became the spokesman for the group, Peter is known for his
+        \"little faith.\"
+        \n\n
+        Peter is often depicted in the gospels as spokesman of all the Apostles.
+        In the time following Christ\'s Ascension, Peter stood as the unquestionable head of the Apostles, which the
+        book of Acts clearly describes. He went on to appoint the replacement of Judas Iscariot, spoke first to the
+        crowds that had assembled after the descent of the Holy Spirit at Pentecost, he was the first Apostle to perform
+        miracles in the name of the Lord, and he rendered judgment upon the deceitful Ananias and Sapphira, both of whom
+        were stealing from church members and God alike.
+        Peter was instrumental in bringing the Gospel to the Gentiles. He baptized the Roman pagan Cornelius, and at the
+        Council of Jerusalem gave his support to preach to Gentiles, thereby permitting the new Church to become
+        universal.
+        \n\n
+        Tradition says that Peter died in A.D. 64-68 during Nero\'s persecution of the Christians. He was crucified
+        upside down on a cross.
+        \n\n
+        Feastday June 29th.
+    </string>
+    <string name="andrew">\nSt. Andrew, also known as Andrew the Apostle, was an Apostle and the older brother
+        to St. Peter.
+        \n\n
+        According to the New Testament, Andrew was born in the village of Bethsaida on the Sea of Galilee during the
+        early first century. Much like his younger brother, Simon Peter, Andrew was also a fisherman. Andrew\"s very
+        name means strong and he was known for having good social skills.
+        \n\n
+        In the Gospel of Matthew, it is said Jesus was walking along the shore of the Sea of Galilee and saw Andrew and
+        Simon Peter fishing. It is then he asked the two to become disciples and \"fishers of men.\"
+        \n\n
+        In the Gospel of Luke, Andrew is not initially named. It describes Jesus using a boat, believed to be solely
+        Simon\"s, to preach to the multitudes and catch a large amount of fish on a night that originally was dry.
+        Later, in Luke 5:7, it mentions Simon was not the only fisherman on the boat, but it is not until Luke 6:14 that
+        there is talk of Andrew being Simon Peter\"s brother.
+        \n\n
+        However, the Gospel of John tells a separate story, stating Andrew was a disciple of John the Baptist. When
+        Jesus walked by one day, John the Baptist stated, \"Behold, the Lamb of God!\" It is then that Andrew and
+        another made the decision to follow Jesus.
+        \n\n
+        Little else is said about Andrew in the Gospels, but it is believed Andrew was one of the closer disciples to
+        Jesus. It was he who told Jesus about the boy with the loaves and fishes, according to John 6:8. When Philip
+        wanted to speak to Jesus about Greeks seeking him, he spoke to Andrew first. Andrew was also present at the last
+        supper.
+        \n\n
+        Per Christian tradition, Andrew went on to preach the Good News around the shores of the Black Sea and
+        throughout what is now Greece and Turkey. Andrew was martyred by crucifixion in Patras. He was bound, rather
+        than nailed, to a cross, as is described in the Acts of Andrew. He was crucified on a cross form known as \"crux
+        decussata,\" which is an X-shaped cross or a \"saltire.\" Today this is commonly referred to as \"St. Andrew\"s
+        Cross.\" It is believed Andrew requested to be crucified this way, because he deemed himself \"unworthy to be
+        crucified on the same type of cross as Jesus.\"
+        \n\n
+        Andrew\"s remains were originally preserved at Patras. However, some believe St. Regulus, who was a monk at
+        Patras, received a vision telling him to hide some of Andrew\"s bones. Shortly after Regulus\" dream, many of
+        Andrew\"s relics were transferred to Constantinople by order of Roman emperor Constantius II around 357. Regulus
+        later received orders in a second dream telling him to take the bones \"to the ends of the earth.\" He was to
+        build a shrine for them wherever he shipwrecked. He landed on the coat of Fife, Scotland.
+        \n\n
+        St. Andrew is venerated in Georgia as the first preacher of Christianity in that territory and in Cyprus for
+        having struck the rocks creating a gush of healing waters upon landing on the shore.
+        \n\n
+        His saltire cross is featured on the flag of Scotland and is represented in much of his iconography. He is
+        commonly portrayed as an old man with long white hair and a beard, often holding the Gospel book or a scroll.
+        \n\n
+        St. Andrew is the patron saint of fishermen and singers. He is also the patron saint to several countries and
+        cities including: Scotland, Romania, Russia, Ukraine and Patras.
+        \n\n
+        Feastday November 30.
+    </string>
+    <string name="james">James Major is the son of Zebedee and Salome and brother of John the disciple. The title \"the
+        Greater\" was added to St.
+        James\' name to help distinguish him from the Apostle James \"the Less,\" who is believed to have been shorter
+        than James \"the Greater.\" Saint James the Greater was one of Jesus\' first disciples.
+        \n\n
+        James was fishing with his father and John the Apostle when Jesus came to the shores of the Sea of Galilee and
+        called for the fisherman, who were unable to catch any fish that day, to dip their nets in the water once again.
+        When the fishermen followed Jesus\' instructions, they found their nets full, and after emptying the fish on
+        board, the boats nearly sank from their weight.
+        \n\n
+        Later, James was one of only three called by Jesus to witness his Transfiguration, and when he and his brother
+        wanted to call fire upon a Samaritan town, both were rebuked by Jesus. Following Christ\'s Ascension, James
+        spread the Gospel across Israel and the Roman kingdom as well. He traveled and spread the Word for nearly forty
+        years in Spain. It is said that one day, as he prayed, The Blessed Virgin Mary appeared to him and asked him to
+        build her a church, which he did.
+        \n\n
+        Later, James returned to Jerusalem but was martyred for his faith by King Herod, who decapitated him. Saint
+        James the Greater is known as the first apostle to die. As he was not allowed to be buried following his
+        martyrdom, his remains were taken to Compostela, Spain, by some of his followers, who buried him. In the ninth
+        century his remains were discovered and moved to a tomb in Santiago de Compostela. Today, his remains can still
+        be found in the Cathedral of Santiago. As Santiago de Compostela is the most frequently visited place pilgrims
+        migrate to following Rome and Jerusalem, Pope Leo declared it a shrine.
+        \n\n
+        Feastday July 25th.
+    </string>
+    <string name="john_">\nSt. John the Apostle, the son of Zebedee and Salome, was one of the Twelve Apostles of Jesus.
+        John was called to be an Apostle by our Lord in the first year of His public ministry. He is considered the same
+        person as John the Evangelist, John of Patmos and the Beloved Disciple. John\'s older brother was St. James the
+        Great, another one of Jesus\' Twelve Apostles. Jesus referred to the brothers as \"Boanerges,\" meaning \"sons
+        of thunder.\" John is believed to be the longest living apostle and the only not to die a martyr\'s death.
+        \n\n
+        John, along with Peter and James, were the only witnesses of the raising of Daughter of Jairus, and the closest
+        witnesses to the Agony in Gethsemane.
+        \n\n
+        John was the only one of the Twelve Apostles who did not forsake the Savior in the hour of His Passion. He stood
+        faithfully at the cross when the Savior made him the guardian of His Mother.
+        \n\n
+        After the Assumption of Mary, John went to Ephesus, according to Church tradition. He later became banished by
+        the Roman authorities to the Greek Island of Patmos; this is where he allegedly wrote the Book of Revelation. It
+        is said John was banished in the late 1st century, during the reign of the Emperor Domitian, after being plunged
+        into boiling oil in Rome and suffering no injuries. It is also said that all those who witnessed the miracle in
+        the Colosseum were converted to Christianity. Emperor Domitian was known for his persecution of Christians.
+        \n\n
+        John is known as the author of the Gospel of John and four other books in the New Testament - the three Epistles
+        of John and the Book of Revelation. The authorship of the Gospel is credited to the \"disciple whom Jesus
+        loved,\" and John 21:24 claims the Gospel of John is based on the \"Beloved Disciple\'s\" testimony.
+        \n\n
+        St. John is called the Apostle of Charity, a virtue he had learned from his Divine Master, and which he
+        constantly inculcated by word and example. The \"beloved disciple\" died in Ephesus after AD 98, where a stately
+        church was erected over his tomb.
+        \n\n
+        St. John is the patron saint of love, loyalty, friendships, and authors. He is often depicted in art as the
+        author of the Gospel with an eagle, symbolizing \"the height he rose to in his gospel.\" In other icons, he is
+        shown looking up into heaven and dictating his Gospel to his disciple.
+        \n\n
+        Feastday December 27
+    </string>
+    <string name="old">Old testament(46 Books)\n\n</string>
+    <string name="testament">New testament(27 Books)\n\n</string>
+    <string name="apostles_1">Apostles</string>
+    <string name="common_prayer">Common Prayers</string>
+    <string name="angels_">Angels</string>
+    <string name="pray">Pray to the guardian angel</string>
+    <string name="angel">Prayer To The Guardian Angel</string>
+    <string name="angel_of_god">Angel of God , guardian of my soul , mind and body watch over me. Protect me from all
+        dangers and attacks of Satan. Lead me to the right path of perfection. Intercede for me always before the throne
+        of God. Do not leave me alone , not even a moment. Hold my hands , that I may reach heaven safely. Jesus my
+        Savior and God wash me and my dear ones and all I have in your precious blood. Protect us and fill us with your
+        eternal love. Thank you Jesus !! Praise you Jesus !!
+    </string>
+    <string name="highest">\n\nThey are the highest and closest angels to God.
+        The name \"Seraphim\" comes from the Hebrew word Saraf which means to \"burn\" or \"destroy\" and it refers to
+        the ability of the seraphim to destroy by burning. They are burning with love of God and with that flame it
+        burns the sins of human beings and the power of evil spirit.
+
+        In the book of Isaiah 6:6-7 one Seraphim takes a burning coal and touches it to Isaiah\'s lips,
+        proclaiming that his guilt is taken away and his sin is forgiven.
+        Having burned with love of God they spread this love to us. Seraph means \'love\'.
+        In Hebrew it also means \"one who is blazing\", Seraphims are the created representations of divine love,
+        the fire of which consumes them and keeps them close to the throne of God.
+        They are the only angels to stand above the throne. They establish the vibration of love which in turn creates
+        the
+        field of life. They purify completely and dispel the shadows of darkness. They are of such subtlety that they
+        are rarely
+        perceived by human consciousness. \n\nThe seraphims sing the hourly \"holy, holy, holy\" and also give us the
+        grace to praise God.
+        Seraphims help humans perfect the flame of love. The seraphims have six fiery red wings and bare a flaming
+        sword; their feet are bare. Seraphims help humans perfect the flame of love. Seraf means \'Love\'. In Hebrew it
+        also means \"one who is flaming\".
+        \n\n<b>Mission</b>\n\nTo give the grace of Praise, and share genuine love.
+
+    </string>
+    <string name="cherubim_rank">\nCherubims are the second highest angels to God. The Hebrew term \"kerub\" means
+        \"fullness of knowledge and wisdom\" The cherubims are not specifically called angels. They make their first
+        appearance in the Bible in Genesis 3:22. God places them at the east entrance to the Garden of Eden, guarding it
+        with flaming swords.
+
+        In Exodus 25:10-22, God gives Moses instructions for building the Ark of the Covenant, a gilded wooden chest
+        that shall bear the mercy seat of God with cherubim made of hammered gold at its two ends.
+
+        \n\nThey bestow on us wisdom and knowledge. Cherubims have two blue wings and shod feet, and they may hold open
+        books representing the fullness of knowledge. They may stand on wheels. The cherubims contemplate the divine
+        goodness not directly and in itself but as providence. They are the fullness of science because they see clearly
+        the first operative virtue of the divine model of things.
+        \n\n<b>Mission</b>\n\nThey are the Holy Ones, who lead to holiness through the practice of virtues.
+    </string>
+    <string name="thrones_are">\nThrones of the third rank contemplate the enactment of divine justice. They are called
+        Thrones, for the power of judgment is shown by the throne. They are the bearers of God and fully capable of
+        undertaking all that is divine. They incessantly praise God, and help us to listen to the voice of God and give
+        us the virtue of humility.
+
+        Thrones are two fiery wheels with four eye-filled wings each; they may carry sceptre, orbs, swords, or books.
+        They may carry thrones or seat representing divine justice.
+        \n\n <b>Mission</b>\n\nThey give the grace to listen to God and of genuine humility.
+    </string>
+    <string name="dominions_are">\nDominions are the fourth highest order of angels, who regulate the duties of other
+        angels and make known the commands of God. Dominions also are Channels of mercy. The term dominion refers to
+        \"lordship,\" \"rule,\" or \"special meaning.\" Ephesians 1:21 states that God has raised Christ far above \"all
+        rule and authority and power and dominion and every name that is named.\" And Colossians 1:16 states that in
+        Jesus Christ all things visible and invisible, in heaven and earth are created, \"whether thrones or dominions
+        or rulers powers.\"
+
+        Dominions are two-winged, wear long albs, golden girdles, and green stoles, hold the seal of Jesus Christ in
+        their right hands and a golden staff topped by a cross in their left hands. They also have crowns and they carry
+        scepters, orbs, swords, or books.
+        \n\n<b>Mission</b>\n\nThey reflect the authority of God. They control the senses and remove evil tendencies.
+        They save us from the deception and temptation of the devil.
+    </string>
+    <string name="virtues_are">\nThe fifth highest order of angels, whose name means \"Virtues,\" especially in
+        relation to performance of miracles and magic. The primary tasks of Virtues are to execute miracles on earth and
+        provide courage, grace and valour. They help carry out the suggestions of Authorities. They control the natural
+        powers and help to balance the equillibrium and seasons. They help to enlighten the intelligence and give us
+        wisdom and knowledge. They give us strength and courage to fight against evils. They are also known as the
+        heavenly powers, meaning that the celestial powers will be shaken (Luke 21:26). The general directives issued by
+        Dominations are received by Virtues, who multiply them and channel them according to the various effects to be
+        produced.
+        \n\n<b>Mission</b>\n\nThey are the Souls of the prophets. They reveal the Principles of God.
+    </string>
+    <string name="powers">\nThe sixth highest order of angels, Powers fight against evil spirits who seek to wreck
+        havoc through human beings. They protect the divine plans initiated by the Dominions and carried out by the
+        virtues. They are sometimes equated with authorities, Dynameis, and Exousial. They help us to obey the
+        commandments of God. They protect the earth from the Satanic destructions. St. Paul alluded to their capability
+        to be either good or evil: Romans 8:38, he lists Powers as among obstacles that will not be able to separate man
+        from the love of God in Jesus Christ. Pope Gregory the great said powers presided over Demons. Like Dominions
+        and Virtues, Powers are two winged, wear long albs, golden girdles, and green stoles, hold the seal of Jesus
+        Christ in their right hands. Powers sometimes hold rods or swords, wear knightly armor, and lead demons in
+        chains. 1 Pet. 3:22 says that Jesus Christ went to heaven and is seated at the right hand side of God. Angels
+        and Authorities and Powers are made subject to Him.
+        \n\n<b>Mission</b>\n\nThey give us the strength to carry out God\' commandments and save us from falling into
+        temptation.
+    </string>
+    <string name="archangels">\nArchangels are the Eighth highest rank of angels. The name \"archangels\" comes from
+        the Greek term \"archangelos.\" meaning \"chief messenger\" or \"eminent messenger.\" Archangels, also known as
+        \"Holy Ones.\" are the communicators between God and human beings. They are incharge of Heaven\'s armies in the
+        battle against Hell, and they are the supervisor\'s of the Guardian Angels. They also act as guardian angels of
+        leaders of religions and states. Archangels have a special place before God. In the Book of Revelation we can
+        see \"seven angels who stand before God\" Rev 8:2, there are seven punishing angels in the book of Ezekiel six,
+        who wield swords and a seventh who carries a writing case (Eze 9:2); Raphael revealed himself to Tobit as one of
+        the seven angels who stand in the presence of the Lord (Tobit 12:15). Archangels are seen as soldiers in armour
+        with two wings, golden belts, and javelins. They are Michael, Gabriel, Raphel. Uriel, Jeramiel, Raguel and
+        Saraqael.
+        \n\n<b>Mission</b>\n\nThey act against evil spirits and confirm us in faith and good work.
+    </string>
+    <string name="angels__">\nAngels are attached to a person from birth to death. providing constant guidance,
+        protection, and companionship. Raphael, the guardian angel of all humanity, is represented as a benign friend
+        and fellow traveller, protector of the young and innocent, rendered in episodes from the book of Tobit.
+        \n\n<b>Mission</b>They are the Heavenly armies, all the angels protect the children of God. They also give us
+        protection during our life and accompany us to heaven.
+    </string>
+    <string name="philip">\nSt.Philip was born in Bethsaida, Galilee. He may have been a disciple of John the Baptist
+        and is
+        mentioned as one of the Apostles in the lists of Matthew, Mark, Luke, and in Acts. He was called by Jesus
+        Himself and brought Nathanael to Christ. Philip was present at the miracle of the loaves and fishes, when he
+        engaged in a brief dialogue with the Lord, and was the Apostle approached by the Hellenistic Jews from Bethsaida
+        to introduce them to Jesus. Just before the Passion, Jesus answered Philip\'s query to show them the Father, but
+        no further mention of Philip is made in the New Testament beyond his listing among the Apostles awaiting the
+        Holy Spirit in the Upper Room.
+        \n\n
+        Following the resurrection of Jesus, Philip was sent with his sister Mariamne and Bartholomew to preach in
+        Greece, Phrygia, and Syria.Of the four Gospels, Philip figures most prominently in the Gospel of John. Jesus is
+        asked by Philip on how to feed the 5,000 people.Later he appears as a link to the Greek community. Philip bore a
+        Greek name, may have spoken Greek,and may have been known to the Greek pilgrims in Jerusalem. He advises Andrew
+        that certain Greeks wish to meet Jesus, and together they inform Jesus of this (John 12:21).During the Last
+        Supper, when Philip asked Jesus to show them the Father, he provides Jesus the opportunity to teach his
+        disciples about the unity of the Father and the Son.
+        \n\n
+        Death of St.Philip
+        \n\n
+        Philip was martyred in the city of Hierapolis, where through a miraculous healing and his preaching Philip
+        converted the wife of the proconsul of the city. This
+        enraged the proconsul, and he had Philip, Bartholomew, and Mariamne all tortured. Philip and Bartholomew were
+        then crucified upside-down, and Philip preached from his cross. As a result of Philip\'s preaching the crowd
+        released Bartholomew from his cross, but Philip insisted that they not release him, and Philip died on the
+        cross.Nowadays relics of Philip the Apostle are in the crypt of Basilica Santi Apostoli, Rome.
+        \n\n
+        Saint Philip is the patron saint of hatters.
+        \n\n
+        Feastday May 3
+    </string>
+    <string name="bartholomew">\nAll that is known of him with certainty is that he is mentioned in the synoptic gospels
+        and Acts as one of the twelve apostles. His name, a patronymic, means \"son of Tolomai\" and scholars believe he
+        is the same as Nathanael mentioned in John, who says he is from Cana and that Jesus called him an
+        \"Israelite…incapable of deceit.\" The Roman Martyrology says he preached in India and Greater Armenia, where he
+        was flayed and beheaded by King Astyages. Tradition has the place as Abanopolis on the west coast of the Caspian
+        Sea and that he also preached in Mesopotamia, Persia, and Egypt. The Gospel of Bartholomew is apochryphal and
+        was condemned in the decree of Pseudo-Gelasius.
+        \n\n
+        Feast Day August 24.
+    </string>
+    <string name="guardian">\nThe concept of guardian spirits is ancient and universal: guardian angels are particularly
+        prominent in Catholicism. Guardian angels are not expressly named so in the Bible, but the concept of personal
+        angels is established in various passages. In Ez. 28:14, God says \"An anointed Cherub is appointed to guard
+        you\". From the time of our birth God appoints specially anointed angels to protect us so that the evil spirit
+        and his activities may not take possession of us. In Baruch 6:7 it is written: \"My Angel is with you. He is
+        guarding your life.\"
+        \n\n
+        Guardian angels are from the 9th order. God the Father lets us know His will through these spirits, burning with
+        love of God. He has appointed them as our guardians and guides. (Ps. 91:11-12). They always walk with us as
+        fellow travellers and take care of us, protect us in danger, divert us from evil endeavours, strengthen us. when
+        we face sorrows and misery. The angel offers before God our necessities and our Sorrows. The gospel of St.
+        Mathew 18:10-11 says \"you must not insult even the least of these, because their angels are always seeing the
+        face of God. The intercession of the guardian angels is very powerful. They advise men to be righteous. (Job.
+        33:23-24)
+        \n\n
+        There are separate Guardian Angels for each country and city. (Dan 10:13-21). We must respect them and pray for
+        their aid Our guardian angels can make communications with the saints in heaven. They constantly intercede for
+        us. When you begin to travel securely along the spiritual path they pray to Heaven for giving you most valuable
+        graces. When there is a threat to your spiritual growth, your guardian angel warns you before hand. They do this
+        in various ways. The voice of our guardian angels is experienced by means of whispers and voice from within Our
+        guardian angels can help us even from falling into dangers. A spiritual enlightenment of the human soul is the
+        sole aim of the creation of angels. We will be led by the angels invoking the grace of God, for ever.
+        \n\n
+        Genesis 32:1 tells that \"Jacob went on his way and the angels of God met him.\" implying that he had personal
+        angels protecting him on his journey. In Psalm 91:11-13. God \"will give his angels charge of you to guard you
+        in all your ways. On their hands they will bear you up .lest you dash your foot against a stone. Angels are two
+        winged and may appear as soldiers, or they may wear ecclesiastical garments They frequently wear a diadem with a
+        cross in the front. A late medieval variation was to show them in clothing made of feathers. They carry many
+        objects: candles, musical instruments, scrolls, and inscribed shields.
+        \n
+
+    </string>
+    <string name="guardian_2">
+        <b>How does the Guardian Angel help us?</b>
+        \n\n
+        The primary purpose of the guardian angel is the salvation of the soul It serves as messenger, bringing God\'s
+        inspiration and gudince, and as protector against harm and evil. The guardian angel has also been called the
+        angel of prayer, angel of peace. and angel of repentance 1Timo,24 notes that God desires all men to be saved and
+        to come to the knowledge of the truth. The Catholic church teaches that guardian angels watch over humanity as a
+        shepherd over his flock. Angels are joyful and happy to promote the welfare of human souls, for it is the will
+        of God
+        \n\n
+        There are several ways that guardian angels help people. according to Catechism
+        \n\n
+        1. They put good thoughts into minds, and move the will to do what is good
+        \n\n
+        2. They pray with the people and for the people, and offer their
+        prayers and good works to God.
+        \n\n
+        3. They reveal the will of God.
+        \n\n
+        4. They receive and protect the soul at the moment of death. The guardian angel guides it to the after world,
+        protecting it from the onslaught of demons who attempt to steal it away to hell
+        \n\n
+        5. Guardian angels praise God. Angels continuously sing the glory of God, and they encourage humans to do the
+        same.
+        \n\n
+        6. Guardian angels of nations are referred to as Princes (Daniel 10:13)
+        \n\n
+        7. Protects us from danger
+        \n\n
+        8. Guards us from falling into sin
+        \n\n
+        9. When we have a tendency to commit sin, he obstructs it
+        \n\n
+        10. Warns us about the consequences of sin
+        \n\n
+        11. Helps us to rethink and leads us to a life of reparation
+        \n\n
+        12. Gives us the strength and inspiration to acknowledge our faults.
+        \n\n
+        13. Induces us to give up revengeful actions and revengeful thoughts.
+        \n\n
+        14. Guards us under his wings.
+        \n\n
+        15.Spreads wings in front of us so that we may not see unbecoming sights.
+        \n\n
+        16. Gives strength and helps to keep our good resolutions
+        \n\n
+        17. The angel induces and helps us to restore friendship with those who are away from us through hatred.
+        \n\n
+        18. Helps those who are afraid to speak to an angry person. removes their anger and enables them to behave
+        gently
+        \n\n
+        19. Reminds us of things we need.
+        \n\n
+        20. If we pray to them, who constantly see the face of God, they will help us to have a vision of God or
+        experience the presence of God when we pray.
+        \n\n
+        21. The angel will help to find lost articles.
+        \n\n
+        22. It is enough to tell our Guardian Angel to remind others of certain things.
+        \n\n
+        23. Things pertaining to jobs will be done quickly if we tell the Guardian Angel of the Officers.
+
+    </string>
+    <string name="thomas">\nSt. Thomas was born a Jew and was called to be one of the twelve Apostles. His birth and
+        death
+        dates are unknown, but his feast day is celebrated July 3.
+        \n\n
+        He was a dedicated but impetuous follower of Christ. When Jesus said He was returning to Judea to visit His sick
+        friend Lazarus, Thomas immediately exhorted the other Apostles to accompany Him on the trip which involved
+        certain danger and possible death because of the mounting hostility of the authorities.
+        \n\n
+        At the Last Supper, when Christ told His disciples that He was going to prepare a place for them to which they
+        also might come because they knew both the place and the way, Thomas pleaded that they did not understand and
+        received the beautiful assurance that Christ is the Way, the Truth, and the Life.
+        \n\n
+        St. Thomas is best known for his role in verifying the Resurrection of his Master. Thomas\' unwillingness to
+        believe that the other Apostles had seen their risen Lord on the first Easter Sunday earned him the title of
+        \"doubting Thomas.\"
+        \n\n
+        Eight days later, on Christ\'s second apparition, Thomas was gently rebuked for his skepticism and furnished
+        with the evidence he had demanded - seeing in Christ\'s hands the point of the nails. Thomas even put his
+        fingers in the nail holes and his hand into Christ\'s side. After verifying the wounds were true, St. Thomas
+        became convinced of the reality of the Resurrection and exclaimed, \"My Lord and My God,\" thus making a public
+        Profession of Faith in the Divinity of Jesus.
+        \n\n
+        St. Thomas is also mentioned as being present at another Resurrection appearance of Jesus - at Lake Tiberias,
+        when a miraculous catch of fish occurred.
+        \n\n
+        This is all that we know about St. Thomas from the New Testament. Tradition says that at the dispersal of the
+        Apostles after Pentecost this saint was sent to evangelize to the Parthians, Medes, and Persians. He ultimately
+        reached India, carrying the Faith to the Malabar coast, which still boasts a large native population calling
+        themselves \"Christians of St. Thomas.\"
+        \n\n
+        According to tradition, Thomas was killed in an accident when a fowler shot at a peacock and struck Thomas
+        instead. Following his death, some of his relics were taken to Edessa while the rest were kept in what is now
+        known as India. They can still be found within the San Thome Basilica in Chennai, Mylapore, India.
+        \n\n
+        Feastday July 3rd / December 21th
+
+    </string>
+    <string name="jameslesser">\nJames Lesser, apostle called \"the Younger\" or \"the Just,\" named in the lists of the
+        disciples given by Matthew, Mark, and Luke and mentioned in the Acts of the Apostles. He was the son of Alpheus
+        and was known as \"the Less\" merely as a means of distinguishing him from James the Greater who was older or
+        taller. According to Mark, he stood with the woman Mary and Mary Magdalene at the Crucifixion; he is also called
+        by implication the son of the woman Mary. Little else is known with certainty about him, unless one accepts the
+        view that he is to be identified with St. James, the Brother of the Lord, with whom he is often confused. In
+        liturgical art, he is depicted holding a book or a club. He shares the same feast day as St. Philip.
+        \n\n
+        Tradition says that James was crucified in Lower Egypt and then sawed in pieces.
+        \n\n
+        Feastday May 3rd.
+    </string>
+    <string name="simoncann">\nSimon was surnamed the Zealot for his rigid adherence to the Jewish law and to the
+        Canaanite law. He was one of the original followers of Christ. Western tradition is that he preached in Egypt
+        and then went to Persia with St. Jude, where both suffered martyrdom. Eastern tradition says Simon died
+        peacefully at Edessa.
+        \n\n
+        Simon the Zealot was a member of the Zealots before he followed Jesus. He is known to be the second bishop of
+        Jerusalem, after James the Less. He is said to have been crucified in Samaria after a failed revolt.
+        \n\n
+        Feast day October 28th.
+
+    </string>
+    <string name="matthews">\nHe was the son of Alpheus, and he was likely
+        born in Galilee. He worked as a tax collector, which was a hated profession during the time of Christ. According
+        to the Gospel, Matthew was working at a collection booth in Capernaum when Christ came to him and asked,
+        \"Follow me.\" With this simple call, Matthew became a disciple of Christ.
+        \n\n
+        From Matthew we know of the many doings of Christ and the message Christ spread of salvation for all people who
+        come to God through Him. The Gospel account of Matthew tells the same story as that found in the other three
+        Gospels, so scholars are certain of its authenticity. His book is the first of the four Gospels in the New
+        Testament. Many years following the death of Christ, around 41 and 50 AD, Matthew wrote his gospel account. He
+        wrote the book in Aramaic in the hope that his account would convince his fellow people that Jesus was the
+        Messiah and that His kingdom had been fulfilled in a spiritual way. It was an important message at a time when
+        almost everyone was expecting the return of a militant messiah brandishing a sword.
+        \n\n
+        It is thought he departed for other lands to escape persecution sometime after 42 AD. According to various
+        legends he fled to Parthia and Persia, or Ethiopia. Nothing is recorded of Matthew\'s passing. We do not know
+        how he died, if his death was natural or if he was martyred. Saint Matthew is often depicted with one of the
+        four living creatures of Revelation 4:7, which reads, \"The first living creature was like a lion, the second
+        like a bull, the third living creature had a human face, and the fourth living creature was like a flying
+        eagle.\"
+        \n\n
+        Matthew, the tax collector, preached in Ethiopia, Judea, Macedonia, Syria and Partha (in northeast Iran).He had
+        angered a
+        local king who ordered him nailed to a bed, covered his whole body with paper, brimstones, oil, asphalt and
+        brushwood and set him on fire.
+        \n\n
+        Matthew was a tax collector and is therefore the patron saint of bankers.
+        \n\n
+        Feastday September 21
+    </string>
+    <string name="judas">\nThe Apostle who betrayed his Divine Master . The name Judas ( Ioudas ) is the Greek form of
+        Judah (Hebrew \"praised\"), a proper name frequently found both in the Old and the New Testament. Even among the
+        Twelve there were two that bore the name, and for this reason it is usually associated with the surname Iscariot
+        [Hebrew \"a man of Kerioth\" or Carioth, which is a city of Judah (cf. Joshua 15:25 )]. There can be no doubt
+        that this is the right interpretation of the name, though the true origin is obscured in the Greek spelling,
+        and, as might be expected, other derivations have been suggested (e.g. from Issachar).
+        \n\n
+        Very little is told us in the Sacred Text concerning the history of Judas Iscariot beyond the bare facts of his
+        call to the Apostolate, his treachery, and his death. His birthplace, as we have seen, is indicated in his name
+        Iscariot, and it may be remarked that his origin separates him from the other Apostles, who were all Galileans.
+        For Kerioth is a city of Judah. It has been suggested that this fact may have had some influence on his career
+        by causing want of sympathy with his brethren in the Apostolate. We are told nothing concerning the
+        circumstances of his call or his share in the ministry and miracles of the Apostles. And it is significant that
+        he is never mentioned without some reference to his great betrayal. Thus, in the list of the Apostles given in
+        the Synoptic Gospels, we read: \"and Judas Iscariot, who also betrayed him\". ( Matthew 10:4 . Cf. Mark 3:19 ;
+        Luke 6:16 ). So again in St. John\'s Gospel the name first occurs in connection with the foretelling of the
+        betrayal: \" Jesus answered them: Have not I chosen you twelve; and one of you is a devil? Now he meant Judas
+        Iscariot, the son of Simon: for this same was about to betray him whereas he was one of the twelve\" ( John
+        6:71-2 )
+        \n\n
+        We all know how Judas died, hanging himself in remorse for betraying Jesus for 30 pieces of silver.
+    </string>
+    <string name="domnic">\nDominic Savio (Italian: Domenico Savio; April 2, 1842 – March 9, 1857)
+        was an Italian adolescent student of Saint John Bosco. He was studying to be a priest when he became ill and
+        died at the age of 14, possibly from pleurisy. He was noted for his piety and devotion to the Catholic faith,
+        and was eventually canonized.
+    </string>
+    <string name="bernadette">\nBernadette was born on 7 January 1844 and baptized at the local parish
+        church, St. Pierre\'s, on 9 January, her parents\' wedding anniversary. Bernadette\'s godmother was Bernarde
+        Casterot, her mother\'s sister, a moderately wealthy widow who owned a tavern. Hard times had fallen on France
+        and the family lived in extreme poverty. Bernadette was a sickly child and possibly due to this only measured
+        4ft.7in. tall. She contracted cholera as a toddler and suffered severe asthma for the rest of her life.
+        Bernadette attended the day school conducted by the Sisters of Charity and Christian Instruction from
+        Nevers.Contrary to a belief popularized by Hollywood movies, St. Bernadette learned very little French, only
+        studying French in school after age 13 due to being frequently ill and a poor learner. She could read and write
+        very little due to her frequent illness. She spoke the language of Occitan, which was spoken by the local
+        population of the Pyrenees region at that time and to a lesser degree today
+    </string>
+    <string name="tarcisius">\nTarcisius was a martyr of the early Christian church who lived in the 3rd
+        century. The little that is known about him comes from a metrical inscription by Pope Damasus I, who was pope in
+        the second half of the 4th century.
+    </string>
+    <string name="maria">\nBorn on October 16 1890 in Corinaldo, in the Ancona Province in Italy,
+        her farmworker father moved his family to Ferrier di Conca, near Anzio. When he died of malaria, Maria\'s mother
+        had to struggle to feed her children. Maria\'s mother, brothers, and sisters worked in the fields while she
+        cooked, sewed, kept the house clean, and watched her youngest sister Teresa. Though the family\'s circumstances
+        were extremely difficult, they were very close and loved God.
+    </string>
+    <string name="philomena">\nLittle is known about the life of St. Philomena. However, it is believed
+        she was a Greek princess who became a virgin martyr and died at 13-years-old. Remains of a young lady were
+        discovered in May 1802 at the Catacombs of Priscilla on the Via Salaria Nova with three tiles reading Peace be
+        to you, Philomena.\' All that is known about St. Philomena\'s life comes from a Neapolitan nun\'s vision. Sister
+        Maria Luisa di Gesu claims St. Philomena came to her and told her she was the daughter of a Greek king who
+        converted to Christianity. When Philomena was 13-years-old, she took a vow of consecrated virginity.
+    </string>
+    <string name="agnes">\nA popular saint about whom little is known, Agnes is said to have been a
+        beautiful, wealthy Roman maiden who had, in childhood, dedicated herself to God. Some say that a rejected suitor
+        betrayed her to authorities; others say that she was asked at 13 to sacrifice to the gods and marry, both of
+        which she refused.Legends tell of her being thrown into a brothel, where her purity was miraculously preserved.
+        Having escaped that fate, she was martyred. In the IV Century, Constantia, the daughter of Constantine, built a
+        basilica on the site of her tomb. St. Ambrose wrote about Agnes in De virginitate, and Damasus I wrote an
+        epitaph for her. Prudentius composed a hymn in her honor. Her emblem in art is the lamb because of the
+        similarity between her name and the Latin word for lamb, agnus.
+    </string>
+    <string name="rose_of_viterbo">\nRose of Viterbo, was a young woman born in Viterbo, then a
+        contested commune of the Papal States. She spent her brief life as a recluse, who was outspoken in her support
+        of the papacy. Otherwise leading an unremarkable life, she later became known for her mystical gifts of
+        foretelling the future and having miraculous powers. She is honored as a saint by the Catholic Church.
+    </string>
+    <string name="imelda">\nThe patroness of fervent first communion, Blessed Imelda, came from
+        one of the oldest families in Bologna; her father was Count Igano Lambertini and her mother was Castora Galuzzi.
+        Even as a tiny child she showed unusual piety, taking delight in prayer and slipping off to a quiet corner of
+        the house, which she adorned with flowers and pictures to make it a little oratory. When she was nine, she was
+        placed, at her own wish, in the Dominican convent in Val di Pietra, to be trained there by the nuns. Her
+        disposition soon endeared her to all, while the zeal with which she entered all the religious life of the house
+        greatly edified the nuns. Her special devotion was to the Eucharistic presence of Our Lord at Mass and in the
+        tabernacle. To receive Our Lord in Holy Communion became the consuming desire of her heart, but the custom of
+        the place and time had fixed twelve as the earliest age for a first communion. She would sometimes exclaim:
+        \"Tell me, can anyone receive Jesus into his heart and not die? \"
+    </string>
+    <string name="vitus">\nSaint Vitus , according to Christian legend, was a Christian saint from Sicily.
+        He died as a martyr during the persecution of Christians by co-ruling Roman Emperors Diocletian and Maximian in
+        303 AD. Vitus is counted as one of the Fourteen Holy Helpers of medieval Roman Catholicism. Saint Vitus\' Day is
+        celebrated on 15 June. In places where the Julian Calendar is used, this date coincides, in the 20th and 21st
+        centuries, with 28 June on the Gregorian Calendar.In the late Middle Ages, people in Germany and countries such
+        as Latvia celebrated the feast of Vitus by dancing before his statue.
+
+        Vitus is considered the patron saint of actors, comedians, dancers, and epileptics, similarly to Genesius of
+        Rome. He is also said to protect against lightning strikes, animal attacks and oversleeping. Vitus is the patron
+        saint of the city of Rijeka in Croatia; the towns of Ciminna in Sicily, Forio on the Island of Ischia, in
+        Campania, Italy; the contrada of San Vito, in Torella dei Lombardi, in Avellino, Italy; the town of Winschoten
+        in the Netherlands, and the town of St. Vith located in Belgium.
+    </string>
+    <string name="luis">\nSaint José Luis Sánchez del Río (March 28, 1913 – February 10,
+        1928) was a Mexican Cristero who was put to death by government officials because he refused to renounce his
+        Catholic faith. His death was seen as a largely political venture on the part of government officials in their
+        attempt to stamp out dissent and crush religious freedom in the area. He was dubbed as Joselito. He was declared
+        to be martyr on June 22, 2004 by Pope John Paul II and was beatified by Pope Benedict XVI – through the
+        Cardinal-Prefect of the Congregation of the Causes of Saints – on November 20, 2005 in Mexico. Pope Francis
+        approved a miracle attributed to him on January 21, 2016, allowing for his canonization to take place; a date
+        was determined at a consistory on March 15, 2016 and he was proclaimed to be a saint on October 16, 2016.
+    </string>
+    <string name="crescentius">\nSaint Crescentius of Rome (Italian: San Crescenzio di Roma)
+        is venerated as a child martyr by the Roman Catholic Church. According to tradition, he was born of a noble
+        Roman family and was baptized along with his parents by Saint Epigmenius. During the persecutions of Christians
+        by Diocletian, the family fled to Perugia, where his father Saint Euthymius died. Led back to Rome, Crescentius,
+        who was eleven years old, was beheaded on the via Salaria, outside of the city walls.
+    </string>
+    <string name="mark2">\nBirth:Unknown-Died: 25 April 68 AD much of what we know about St. Mark, the author of the
+        Second Gospel, comes largely from the New Testament and early Christian traditions. Mark the Evangelist is
+        believed to be the \'John Mark\' referred to in the Acts of the Apostles, the history of the early Church found
+        in the Canon of the New Testament. He was the son of Mary of Jerusalem (Acts 12:12) whose home became a meeting
+        place for the apostles. He is also the cousin of St. Barnabas (Colossians 4:10), a Levite and a Cypriot. Mark
+        joined St. Paul and St. Barnabas on their first missionary journey to Antioch in 44 A.D. When the group reached
+        Cyprus, Christian tradition holds that Mark left them and returned to Jerusalem, possibly because he was missing
+        his home (Acts 13:13). This incident may have caused Paul to question whether Mark could be a reliable
+        missionary. This created a disagreement between Paul and Barnabas and led Paul to refuse Mark\'s accompaniment
+        on their second journey to the churches of Cilicia and the rest of Asia Minor. However, it can be assumed the
+        troubles between Paul and Mark did not last long, because when Paul was first imprisoned, Mark, who was at the
+        time in Rome with plans of visiting Asia Minor, visited him as one of his trusted companions (Col 4:10). Mark\'s
+        hopes to visit Asia Minor were most likely carried out, because during Paul\'s second captivity and just before
+        his martyrdom, Paul wrote to Timothy at Ephesus advising him to \take Mark and bring him with you [to Rome], for
+        he is profitable to me for the ministry (2 Timothy 4:11). If Mark returned to Rome at this time, he was probably
+        there when Paul was martyred.
+    </string>
+    <string name="luke2">\nIt is believed that Luke was born a Greek and a
+        Gentile. In Colossians 10-14 speaks of those friends who are with him. He first mentions all those of the
+        circumcision — in other words, Jews — and he does not include Luke in this group. Luke\'s gospel shows special
+        sensitivity to evangelizing Gentiles. It is only in his gospel that we hear the parable of the Good Samaritan,
+        that we hear Jesus praising the faith of Gentiles such as the widow of Zarephath and Naaman the Syrian
+        (Lk.4:25-27), and that we hear the story of the one grateful leper who is a Samaritan (Lk.17:11-19). According
+        to the early Church historian Eusebius Luke was born at Antioch in Syria. In our day, it would be easy to assume
+        that someone who was a doctor was rich, but scholars have argued that Luke might have been born a slave. It was
+        not uncommon for families to educate slaves in medicine so that they would have a resident family physician. Not
+        only do we have Paul\'s word, but Eusebius, Saint Jerome, Saint Irenaeus and Caius, a second-century writer, all
+        refer to Luke as a physician. We have to go to Acts to follow the trail of Luke\'s Christian ministry. We know
+        nothing about his conversion but looking at the language of Acts we can see where he joined Saint Paul. The
+        story of the Acts is written in the third person, as an historian recording facts, up until the sixteenth
+        chapter. In Acts 16:8-9 we hear of Paul\'s company \'So, passing by Mysia, they went down to Troas. During the
+        night Paul had a vision: there stood a man of Macedonia pleading with him and saying, \'Come over to Macedonia
+        and help us.\' \' Then suddenly in 16:10 they\'/ becomes \'we\': \'When he had seen the vision, we
+        immediately tried to cross over to Macedonia, being convinced that God had called us to proclaim the good news
+        to them.\'
+    </string>
+    <string name="paul">
+        Saint Paul is one of the most important and influential of all the saints. Many of his writings are contained in
+        the Canon of the Bible and have influenced the growth and development of the Church since the first century.
+        \n\n
+        St. Paul was originally known as Saul, and he was a Roman citizen and a Pharisee. He even presided over the
+        persecutions of the early Christians and was present at the martyrdom of St. Stephen. However, Saul experienced
+        a powerful vision that caused him to convert to Christianity while on the road to Damascus. He was duly baptized
+        and took the name Paul.
+        \n\n
+        Paul traveled the world, first to Arabia then back to Damascus. He also visited Jerusalem to see St. Peter, the
+        first pope and pay homage to him. During these travels, he preached ceaselessly, often drawing criticism and ire
+        from those who rebuffed his message. Jews, in particular, hated his preaching as they saw him convert people to
+        Christianity from Judaism.
+        \n\n
+        Eventually, Paul returned to Tarsus, where he was born. He preached there until he was called by Barnabus to
+        come to Antioch. After a year spent in Antioch, a famine occurred in Jerusalem and the pair was dispatched to
+        the city with alms.
+        \n\n
+        Paul and Barnabus then went forth on a mission to Cypress and throughout Asia Minor. They established several
+        churches in their travels. After establishing his churches, Paul remained in communication with the faithful,
+        often writing letters to answer questions and resolve disputes.
+        \n\n
+        The letters that have survived have become part of the Bible. It is believed that Paul wrote other letters,
+        which were lost even before the Bible was established by the Church. Paul\'s writings are important because they
+        provide good advice for how Christians should live.
+        \n\n
+        Paul traveled throughout much of Europe, particularly in Macedonia, Greece, and Italy. While preparing for a
+        missionary trip to Spain, he was imprisoned in Caesarea by the Jews for two years. He traveled again, was
+        shipwrecked in Malta, and was imprisoned for another two years for preaching in Rome. Despite these
+        imprisonments, Paul continued to preach.
+        \n\n
+        Paul eventually made his way to Spain, then returned to the East, and finally returned to Rome once again. In 67
+        AD, Paul was arrested in Rome for a second time and this time he was beheaded under the insane Emperor Nero.
+        According to John Chrysostom, Nero knew Paul personally.
+        \n\n
+        Paul is among the most famous, intelligent and influential of the apostles. There are some who argue that he was
+        the leader of the apostles, but this is not supported by the evidence. Instead, he likely preached at the
+        request of St. Peter, who was pope.
+        \n\n
+        St. Paul is the patron saint of missionaries, evangelists, writers, journalists, authors, public workers, rope
+        and saddle makers, and tent makers. His feast day is on June 29 when he is honored with Saint Peter, although he
+        is also honored on other days throughout the year, January 25, for his conversion, February 16, for his
+        shipwreck, and Nov. 18 for the dedication of his Basilica.
+    </string>
+    <string name="xavier">\nSaint Francis Xavier(1506-1552) was a Navarrese-Basque Roman Catholic missionary born in the
+        Kingdom of Navarre on April 7, 1506. His father was a privy counselor and finance minister to King John III of
+        Navarre. He was the youngest in his family and resided in a castle which still partially stands today and is in
+        the possession of the Jesuit order.
+        \n\n
+        As the young Francis grew, he was surrounded by war. Navarre was the target of a campaign by King Ferdinand of
+        Aragon and Castile, and the kingdom was eventually conquered.
+        \n\n
+        When the war stopped and Francis came of age, he was sent to study at the University of Paris. While there he
+        roomed with his friend, Peter Favre. The pair met and were heavily influenced by Ignatius of Loyola, who
+        encouraged Francis to become a priest.
+        \n\n
+        On August 15, 1534, Francis Xavier along with Peter Favre, and several other friends, made vows of poverty,
+        chastity, and obedience. The men planned to travel to the Holy Land to convert non-believers. Francis Xavier
+        started his study of theology that same year and was ordained on June 24, 1537.
+        \n\n
+        Pope Paul III approved the formation of their order in 1540, which became The Society of Jesus. The order is
+        more popularly became known as the Jesuits.
+        \n\n
+        While Francis Xavier was becoming a priest, Portugal was colonizing India. The Portuguese settlers in India and
+        elsewhere were losing their faith and Christian values. To restore these values, the King of Portugal asked the
+        Pope to send missionaries to the region.
+        \n\n
+        Pope Paul III asked the new order to take the mission, particularly since they could not undertake their
+        preferred mission to the Holy Land due to warfare there. Ignatius ultimately decided to send Francis.
+        \n\n
+        Francis Xavier left for India in 1541, on his thirty-fifth birthday. As he departed he was informed that the
+        pope appointed him to be the Papal Nuncio in the East. A Papal Nuncio is a diplomat who takes up permanent
+        residence in another country to formally represent the Church there. He arrived in the region and colony of Goa,
+        India on May 6, 1542.
+        \n\n
+        Although Goa had churches and even a bishop in the Portuguese colony, there were few people to preach and
+        minister to the Portuguese, especially outside the walls of the city.
+        \n\n
+        A major problem Francis quickly recognized was the nature of the people and their intentions. Many sailors and
+        settlers were former prisoners who had been recruited from Portuguese jails or were fleeing mistakes they made
+        back home. None of them came to spread or live virtuous lives. Instead they came to escape Portugal, find
+        adventure, or to make fortunes. Still, they settled and made families.
+        \n\n
+        Xavier ministered first to the sick and the children. Then he learned about the native people of the Pearl
+        Fishery Coast, which had been baptized a decade earlier, but were never taught their faith. Xavier began
+        ministering to them. He spent three years among them, but was often embarrassed by the conduct of his Portuguese
+        countrymen who were already Catholic, but frequently misbehaved.
+        \n\n
+        Xavier built 40 churches for the people of the Pearl Fishery Coast. Xavier encountered difficulty in his mission
+        because he usually worked to convert the people first, instead of their leaders.
+        \n\n
+        Xavier returned to Goa for about a year to attend to his official responsibilities, but he was very interested
+        in visiting Japan. In 1549, he finally departed for the country, arriving in July of that year.
+        \n\n
+        He departed India for the last time in April, 1552 and stopped in Malacca to obtain official documents attesting
+        to his status as a representative of the Portuguese king. However, the harbor in Malacca was now controlled by
+        Alvaro da Gama, the Captain of Malaca and the son of Vasco da Gama.
+        \n\n
+        Da Gama was not friendly to Xavier who refused to recognize his official status as Papal Nuncio. He confiscated
+        the gifts Xavier intended for the Chinese emperor and staffed his ship with a new crew, loyal to himself.
+        \n\n
+        Xavier\'s ship reached China in August, stopping at an island off the Chinese coast. From there, Xavier was on
+        his own. He managed to find a man to agree to take him to China for a large fee, but while he was waiting for
+        his boat to arrive became ill with a fever. Xavier died on December 3, 1552.
+    </string>
+    <string name="gonsalo">\nSaint Gonsalo Garcia (1556–1597) is a Roman Catholic saint from India. Born in the western
+        coastal town of Vasai, an exurb of the city of Bombay, he preached from the Bassein fort during the time the
+        town was under Portuguese colonial rule. The feast of St. Garcia has traditionally been held on the first Sunday
+        nearest to the neap tide following Christmas in Vasai. Gonsalo Garcia was born Gundi Slavus Garcia— to a
+        Portuguese father and a Canarese (resident of the Konkan coast) mother in Bassein, on February 5, 1557. He was
+        the right hand of father St. Peter Baptist Superior of Franciscan mission in Japan. He was tutored by Fr.
+        Sebastian Gonçalves, a Jesuit priest working in Vasai, in the college near Bassein fort. Garcia studied under
+        the tutelage of the Jesuits for eight years from 1564 to 157
+        2. Then, at the age of fifteen, Fr. Sebastian took
+        Garcia to Japan. He soon managed to learn the language and since was seen as an affable person; he soon became
+        popular in the local community as a catechist. He resigned and left to Alcao to set up trade. His business
+        prospered and branches were opened in different locales in Southeast Asia.
+    </string>
+    <string name="anthony">
+        Saint Anthony was born Fernando Martins in Lisbon, Portugal. He was born into a wealthy family and by the age of
+        fifteen asked to be sent to the Abbey of Santa Cruz in Coimbra, the then capital of Portugal. During his time in
+        the Abbey, he learned theology and Latin.
+        \n\n
+        Following his ordination to the priesthood, he was named guestmaster and was responsible for the abbey\'s
+        hospitality. When Franciscan friars settled a small hermitage outside Coimbra dedicated to Saint Anthony of
+        Egypt, Fernando felt a longing to join them.
+        \n\n
+        Fernando eventually received permission to leave the Abbey so he could join the new Franciscan Order. When he
+        was admitted, he changed his name to Anthony.
+        \n\n
+        Anthony then traveled to Morocco to spread God\'s truth, but became extremely sick and was returned to Portugal
+        to recover. The return voyage was blown off-course and the party arrived in Sicily, from which they traveled to
+        Tuscany. Athony was assigned to the hermitage of San Paolo after local friars considered his health.
+        \n\n
+        As he recovered, Anthony spent his time praying and studying.An undetermined amount of time later, Dominican
+        friars came to visit the Franciscans and there was confusion over who would present the homily. The Dominicans
+        were known for their preaching, thus the Franciscans assumed it was they who would provide a homilist, but the
+        Dominicans assumed the Franciscans would provide one. It was then the head of the Franciscan hermitage asked
+        Anthony to speak on whatever the Holy Spirit told him to speak of.
+        \n\n
+        Though he tried to object, Anthony delivered an eloquent and moving homily that impressed both groups. Soon,
+        news of his eloquence reached Francis of Assisi, who held a strong distrust of the brotherhood\'s commitment to
+        a life of poverty. However, in Anthony, he found a friend.
+        \n\n
+        In 1224, Francis entrusted his friars\' pursuits of studies to Anthony. Anthony had a book of psalms that
+        contained notes and comments to help when teaching students and, in a time when a printing press was not yet
+        invented, he greatly valued it.
+        \n\n
+        When a novice decided to leave the hermitage, he stole Anthony\'s valuable book. When Anthony discovered it was
+        missing, he prayed it would be found or returned to him. The thief did return the book and in an extra step
+        returned to the Order as well. The book is said to be preserved in the Franciscan friary in Bologna today.
+        \n\n
+        Anthony occasionally taught at the universities of Montpellier and Toulouse in southern France, but he performed
+        best in the role of a preacher. So simple and resounding was his teaching of the Catholic Faith, most unlettered
+        and the innocent could understand his messages. It is for this reason he was declared a Doctor of the Church by
+        Pope Pius XII in 1946.
+        \n\n
+        Once, when St. Anthony of Padua attempted to preach the true Gospel of the Catholic Church to heretics who would
+        not listen to him, he went out and preached his message to the fish. This was not, as liberals and naturalists
+        have tried to say, for the instruction of the fish, but rather for the glory of God, the delight of the angels,
+        and the easing of his own heart. When critics saw the fish begin to gather, they realized they should also
+        listen to what Anthony had to say.
+        \n\n
+        He was only 35-years-old when he died and was canonized less than one year afterward by Pope Gregory IX. Upon
+        exhumation some 336 years after his death, his body was found to be corrupted, yet his tongue was totally
+        incorrupt, so perfect were the teachings that had been formed upon it.
+        \n\n
+        He is typically depicted with a book and the Infant Child Jesus and is commonly referred to today as the
+        \"finder of lost articles.\"
+        \n\n
+        St Anthony is venerated all over the world as the Patron Saint for lost articles, and is credited with many
+        miracles involving lost people, lost things and even lost spiritual goods.
+
+    </string>
+    <string name="theresa">\nThe remarkable woman who would be known as Mother Theresa began life named Agnes Gonxha
+        Bojaxhiu. Born on August 26, 1910 in Skopje, she was the youngest child born to Nikola and Drane Bojaxhiu,
+        Receiving her First Communion at the age of five, she was confirmed in November 1916.Gonxha\'s religious
+        formation was assisted by the vibrant Jesuit parish of the Sacred Heart in which she was very involved as a
+        youth. Institute of the Blessed Virgin Mary, known as the Sisters of Loreto, in Ireland. She received the name
+        Sister Mary Teresa after St. Therese of Lisieux. In December of 1929, she departed for her first trip to India,
+        arriving in Calcutta. in May 1931, Sister Teresa was assigned to the Loreto Entally community in CalcuttaSister
+        Teresa made her Final Profession of Vows, On May 24, 1937, becoming, as she said, the spouse of Jesus for all
+        eternity.From that time on she was called Mother Teresa.
+    </string>
+    <string name="alphonso">\nShe was born as Annakkutty (little Anna) in Kudamaloor, a village in the princely state of
+        Travancore which was under the British Raj to Joseph and Mary Muttathupadathu.
+        \n\n
+        Anna arrived at the Clarist convent at Bharananganam, Kottayam district, on Pentecost Sunday 1927.She received
+        the postulant\'s veil on 2 August 1928 and took the name Alphonsa of the Immaculate Conception in honor of St.
+        Alphonsus Liguori, whose feast day it was.In May 1929 Sister Alphonsa was assigned to teach at Malayalam High
+        School at Vazhappally. Her foster mother died in 1930. She resumed her studies at Changanacherry, while working
+        as a temporary teacher at a school at Vakakkad
+        \n\n
+        On 19 May 1930 she received her religious habit at Bharananganam. Three days later she resumed her studies at
+        Changanacherry, while working as a
+        temporary teacher at the school at Vakakkad. On 11 August 1931 she joined the novitiate. Anna took her permanent
+        vows on 12 August 1936. Two days later she returned to Bharananganam from Changanacherry.She taught elementary
+        school, but was often sick and unable to teach.
+
+        \n\n
+        In December 1936, it is claimed that she was cured from her ailments through the intervention of Blessed
+        Kuriakose Elias Chavara, but on 14 June 1939 she was struck by a
+        severe attack of pneumonia, which left her weakened.
+        \n
+        Her health continued to deteriorate over a period of months. She received extreme unction on 29 September 1941.
+        The next day it is believed that she regained her memory, though not complete health. Her health improved over
+        the next few years, until in July 1945 she developed gastroenteritis and liver problems that caused violent
+        convulsions and vomiting.During the last year of her life she came to know Father Sebastian Valopilly (later
+        Bishop of Kerala) who frequently brought her communion. This bishop became famous in Kerala for championing the
+        cause of poor people from all religious backgrounds who had come to live in Thalassery as a result of shortages
+        elsewhere.
+        \n\n
+        She died on 28 July 1946, aged 35. She is buried at
+        Bharananganam, Travancore (present day Kerala) in the Diocese of Palai.Her health continued to deteriorate over
+        a period of months.
+    </string>
+    <string name="pio">\nSt. Padre Pio was an Italian priest who was known for his piety and charity, as well as the
+        gift
+        of the stigmata, which has never been explained. St. Padre Pio was born Francesco Forgione, on May 25, 1887, in
+        Pietrelcina, Italy. His parents were peasant farmers.
+        \n\n
+        From his tender age, Francisco had a peculiar ability. He could see guardian angels, spoke with Jesus and the
+        Virgin Mary. This was not something taught to him, but occurred so naturally that he assumed other people could
+        see them too.
+        \n\n
+        Francisco was sickly as a child. He suffered an attack of gastroenteritis at age six and when he was ten, he had
+        typhoid fever.
+        \n\n
+        In 1897, after three years of schooling, Francisco expressed to his parents that he wanted to become a friar.
+        His parents traveled to a nearby community of monks and asked if Francesco could join them. He was evaluated,
+        despite his young age, and was told that he needed more education before he could join. To prepare Francesco,
+        his parents decided to hire a private tutor. To pay the cost of the tutor, Francesco\'s father traveled to
+        America to find work, and sent the money home. At the age of 15, Francisco was finally ready and he entered the
+        novitiate of the Capuchin friars at Morcone. He took the name of \"Pio\" in honor of Pope Pius I, whose relic he
+        often saw at his local chapel.
+        \n\n
+        At the age of 17, Brother Pio became extremely ill and could only digest milk and cheese. He was sent to the
+        mountain for better air, and when this did not work, he was sent home to his family. Amid all this, he continued
+        to study for the priesthood. On one occasion during prayer, a fellow monk astonishingly reported he saw Pio
+        levitate during an episode of ecstasy. Brother Pio became a priest in 1910, but was permitted to remain at home
+        because of his poor health.
+        \n\n
+        On September 20, Padre Pio was hearing confessions when he felt pain in his hands and feet. He noticed the
+        stigmata, the wounds of Christ, appearing on his hands and feet. The experience was painful. Bleeding occurred.
+        The wounds smelled of roses, and although they continued to weep, they never became infected. Doctors who later
+        examined the stigmata were amazed at their perfectly round shape. By 1919, word began to spread about Padre
+        Pio\'s stigmata and people came from far away to examine him. Padre Pio became popular with the people he
+        encountered and soon began to attribute supernatural occurrences to him. For example, he was said to levitate,
+        and able to perform miracles.
+        \n\n
+        His popularity became a source of concern for the Church and the Vatican began to restrict his activities to
+        minimize public interaction. Padre Pio himself was uncomfortable with his newfound popularity and the attention
+        he received because of his stigmata. A Church investigation into his stigmata concluded that his condition was
+        not faked. By 1934, the Vatican began to change its attitude towards Padre Pio and he was again allowed to
+        perform public duties. He could preach, despite never being officially licensed by the Church to do so. Pope
+        Pius XI encouraged people to visit him.
+        \n\n
+        Padre Pio became internationally famous. He was known for his piety, charity and the quality of his preaching.
+        He famously advised, \"Pray, hope and don\'t worry.\" He had other illnesses, as well, including cancer which
+        was miraculously healed after just two treatments. Other problems, such as arthritis, which plagued him in his
+        later years, never went away. Padre Pio died on September 23, 1968. His funeral was attended by over 100,000
+        people.
+        \n\n
+        He is a patron of civil defence volunteers, adolescents.
+        \n\n
+        He was recognized as a saint on 16 June 2002 by Pope John Paul 2.
+        \n\n
+        Feastday 23 September
+
+
+    </string>
+    <string name="mary">\nSt. Mary Magdalene is one of the greatest saints of the Bible and a legendary example of
+        God\'s
+        mercy and grace. The precise dates of her birth and death are unknown, but we do know she was present with
+        Christ during his public ministry, death and resurrection.
+        \n\n
+        She is mentioned at least a dozen times in the
+        Gospels.The Gospels agree that Mary was originally a great sinner. Jesus cast seven demons out of her when he
+        met her. After this, she told several women she associated with and these women also became followers.
+        \n\n
+        During Jesus\' ministry, it is believed that Mary Magdalene followed him, part of a semi-permanent entourage who
+        served Jesus and his Disciples.
+        \n\n
+        Mary likely watched the crucifixion from a distance along with the other women who followed Christ during His
+        ministry. Mary was present when Christ rose from the dead, visiting his tomb to anoint his body only to find the
+        stone rolled away and Christ, very much alive, sitting at the place they laid Him. She was the first witness to
+        His resurrection.
+        \n\n
+        After the death of Christ, a legend states that she remained among the early Christians. After fourteen years,
+        she was allegedly put into a boat by Jews, along with several other saints of the early Church, and set adrift
+        without sails or oars. The boat landed in southern France, where she spent the remaining years of her life
+        living in solitude, in a cave.
+        \n\n
+        She is the patroness of converts, repentant sinners, sexual temptation, pharmacists, tanners and women, and many
+        other places and causes.
+        \n\n
+        Feastday July 22th.
+    </string>
+    <string name="fastina">\nSaint Maria Faustina Kowalska of the Blessed Sacrament was born as Helena Kowalska, in
+        Glogowiec, Leczyca County, north-west of Lódz in Poland on August 25, 1905. She was the third of 10 children to
+        a poor and religious family. Faustina first felt a calling to the religious life when she was just
+        seven-years-old and attended the Exposition of the Blessed Sacrament. After finishing her schooling, Faustina
+        wanted to immediately join a convent. However, her parents refused to let her. Instead, at 16-years-old,
+        Faustina became a housekeeper to help her parents and support herself. In 1924, Faustina experienced her first
+        vision of Jesus. While at a dance with her sister, Natalia, Faustina saw a suffering Jesus and then went to a
+        Cathedral. According to Faustina, Jesus instructed her to leave for Warsaw immediately and join a convent.
+        Faustina packed her bags at once and departed the following morning. When she arrived in Warsaw, she entered
+        Saint James Church in Warsaw, the first church she came across, and attended Mass.
+    </string>
+    <string name="teresa">\nTeresa died when she was 24, after having lived as cloistered Carmelite for less than ten
+        years. She never went on missions, never founded a religious order, never performed great works. The only book
+        of hers, published after her death, was an brief edited version of her journal called /\'Story of a Soul.\'/
+        (Collections of her letters and restored versions of her journals have been published recently.) But within 28
+        years of her death, the public demand was so great that she was canonized. Over the years, some modern Catholics
+        have turned away from her because they associate her with over- sentimentalized piety and yet the message she
+        has for us is still as compelling and simple as it was almost a century ago. Therese was born in France in 1873,
+        the pampered daughter of a mother who had wanted to be a saint and a father who had wanted to be monk. The two
+        had gotten married but determined they would be celibate until a priest told them that was not how God wanted a
+        marriage to work! They must have followed his advice very well because they had nine children. The five children
+        who lived were all daughters who were close all their lives.
+    </string>
+    <string name="apostle">Apostles\' Creed</string>
+    <string name="about">About</string>
+    <string name="thaddeus">\nSt. Jude, known as Thaddaeus, was a brother of St. James the Less, and a relative of Our
+        Saviour.
+        He was one of the 12 Apostles of Jesus.
+        \n\n
+        Biblical scholars agree St. Jude was a son of Clopas and his mother Mary was the Virgin Mary\'s cousin. Ancient
+        writers tell us that he preached the Gospel in Judea, Samaria, Idumaea, Syria, Mesopotamia, and Libya. According
+        to Eusebius, he returned to Jerusalem in the year 62, and assisted at the election of his brother, St. Simeon,
+        as Bishop of Jerusalem.
+        \n\n
+        He is an author of an epistle (letter) to the Churches of the East, particularly the Jewish converts, directed
+        against the heresies of the Simonians, Nicolaites, and Gnostics.The Apostles Jude and Bartholomew are believed
+        to have brought
+        Christianity to Armenia, where Jude was rumored to have later been martyred.
+        \n\n
+        Following his death, St. Jude\'s body was brought to Rome and left in a crypt in St. Peter\'s Basilica. Today
+        his bones can be found in the left transept of St. Peter\'s Basilica under the main altar of St. Joseph in a
+        tomb he shares with the remains of the apostle Simon the Zealot.
+        \n\n
+        Roman Catholics invoke St. Jude when in desperate situations because his New Testament letter stresses that the
+        faithful should persevere in the environment of harsh, difficult circumstances -just as their forefathers had
+        done before them; therefore, he is the patron saint of desperate cases.
+        \n\n
+        There are several sites across the world dedicated to the Apostle Jude, including shrines and
+        churches. The National Shrine of Saint Jude was founded in 1955 and can be found in England.
+        \n\n
+        In India there is St.Jude\'s shrine in Jhansi
+        \n\n
+        Thaddaeus was martyred in Persia by arrows.
+        \n\n
+        Feastday October 28th
+    </string>
+    <string name="email_title">Feedback on Angels and Saints app</string>
+    <string name="Nicene_creed">Nicene Creed</string>
+    <string name="nicene_creed">I believe in one God, the Father Almighty, Maker of heaven and
+        earth, and of all things visible and invisible. And in one Lord Jesus Christ, the only-begotten Son of God,
+        begotten of the Father before all worlds; God of God, Light of Light, very God of very God; begotten, not made,
+        being of one substance with the Father, by whom all things were made. Who, for us men for our salvation, came
+        down from heaven, and was incarnate by the Holy Spirit of the virgin Mary, and was made man; and was crucified
+        also for us under Pontius Pilate; He suffered and was buried; and the third day He rose again, according to the
+        Scriptures; and ascended into heaven, and sits on the right hand of the Father; and He shall come again, with
+        glory, to judge the quick and the dead; whose kingdom shall have no end. And I believe in the Holy Spirit, the
+        Lord and Giver of Life; who proceeds from the Father [and the Son]; who with the Father and the Son together is
+        worshipped and glorified; who spoke by the prophets. And I believe one holy catholic and apostolic Church. I
+        acknowledge one baptism for the remission of sins; and I look for the resurrection of the dead, and the life of
+        the world to come.
+        \n\n
+        Amen.\n\n\n\n
+    </string>
+    <string name="nicene_mar">नायसियन क्रीड\n\nस्वर्ग आणि पृथ्वी सर्व दृश्य व अदृश्य वस्तू ह्यांचा उत्पन्नकर्ता । एकच
+        परमेश्वर, सर्वशक्तिमान
+        पिता । ह्यावर मी श्रद्धा ठेवतो । आणि परमेश्वराचा एकुलता एक पुत्र । येशू ख्रिस्त एकच प्रभू । ह्यावर मी श्रद्धा
+        ठेवतो तो सर्व युगांपूर्वी पित्यापासून जन्मलेला आहे । परमेश्वरापासून परमेश्वर। प्रकाशापासून प्रकाश । खऱ्या
+        परमेश्वरापासून खरा परमेश्वर तो पित्याशी एकतत्त्व असून । जन्मलेला आहे उत्पन्न केलेला नाही । त्याजकडून सर्व
+        उत्पन्न झाले आहे । तो आम्हा मानवांसाठी । व आमच्या तारणासाठी । स्वर्गातून उतरला । तो पवित्र आत्म्याच्या योगाने ।
+        कुमारी मरियेपासून । शरीर धारण करून । मनुष्य झाला । शिवाय आम्हासाठी त्याला क्रुसी दिले । पोन्ती पिलाताच्या
+        अमदानीत। त्याने दुःख भोगले । तो मरण पावला । त्याला पुरले । तो अधोलोकांत उतरला । शास्त्राप्रमाणे तो तिसऱ्या दिवशी
+        पुन्हा जिवंत झाला । व स्वर्गात चढला आणि पित्याच्या उजवीकडे बसला आहे । आणि जिवंतांचा व मृतांचा न्याय करावयास ।
+        वैभवाने पुन्हा येणार आहे । त्याच्या राज्याचा शेवट होणार नाही । आणि पवित्र आत्मा । प्रभू व जीवनदाता । यावर मी
+        श्रद्धा ठेवतो । तो पिता आणि पुत्र यांपासून निघतो। आणि पिता व पुत्र । यांसहित त्याला भजतात व त्याचा गौरव करतात ।
+        तो संदेष्ट्यांमार्फत बोलला आहे । आणि एकाच, पवित्र, कॅथोलिक व प्रेषितीय ख्रिस्तसभेवर । मी श्रद्धा ठेवतो ।
+        पापक्षमेसाठी मी एक बाप्तिस्मा मान्य करतो । आणि मेलेल्यांचे पुनरूत्थान । व भावी जगातील जीवनाची । मी वाट पाहतो ।
+        \n\n आमेन.
+    </string>
+    <string name="Principle">\nThe seventh highest order of angels Principalities possess.\"princely Powers\" and
+        watch over the actions of the earth\'s nations and cities the visible world of humankind. Every nation has its
+        own Principality. They also govern and protect religion on this planet. Principalities can help humans call upon
+        secret powers to subdue others and establish their own authority.
+        Principalities are linked to the element of air. They are sometimes equated with the Elohim. They rule Netzach
+        (victory), the seventh sephirot of the Tree of Life. Their chiefs are Requel, Anael, Cerviel, and Nisroc.
+        1 Enoch 61/10, links principalities with other high ranking angels the cherubim, seraphim, ophanim, \"and all
+        the angels of power.\"
+        Principalities appear as soldiers with two wings, golden belts, and lance - headed javelins. They wear princely
+        robes over armour, with crowns and sword or scepter.
+        \n\n<b>Mission</b>\n\nThey protect the kingdom of God and give us the spirit of Obedience.
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="prayer_holyspirit">
+        PRAYER TO THE HOLY SPIRIT
+        \n \n Come, Holy SPIRIT, fill the hearts of your faithful, and kindle in them the fire of your love.\n \n V.
+        Send forth your Spirit and they shall be created;\n \n R. And you shall renew the face of the earth.\n \n Let
+        us pray.
+        \n\n O God who didst instruct the hearts of your faithful by the light of the Holy Spirit, grant that, by the
+        same Spirit, we may be truly wise, and ever rejoice in His consolation. Through Christ, our Lord.
+        Amen.
+    </string>
+    <string name="carlo">
+        \nBlessed Carlo Acutis was born on May 3, 1991 in London, United Kingdom to Andrea Acutis and Antonia Salzano.
+        His parents were financially well-off and worked in Germany and the United Kingdom before settling down in
+        Milan, Italy in September 1991.
+        \n\n
+        From a young age, around 3, he demonstrated great interest in Catholic churches and often asked to see them. At
+        the age of 7 he received his First holy Communion at the convent of St. Amdrogio and Nemus. He was commonly
+        observed praying before the Tabernacle before and after Mass. He also went to Confession once per week. He
+        enjoyed visiting Assisi where St. Francis is entombed.
+        \n\n
+        In addition to his love for the Church, Acutis was deeply interested in computers and taught himself how to code
+        and build websites while still in primary school. His brief high school career was spent in the care of the
+        Jesuits at the Institute of Leo XIII.
+        \n\n
+        Acutis was also known to give away his pocket money to the poor and to speak up in defense of the disabled. He
+        had a habit of inviting kids to his house whose parents were divorcing to support them. Acutis used his
+        knowledge of computers and coding to build websites for Catholic organizations. His most popular website was one
+        that listed miracles from around the world based on a catalog he compiled since age 11. He completed the site
+        shortly before his death. When Acutis developed leukemia as a teenager, he offered up his suffering for Pope
+        Benedict XVI and the Church. He was quoted as saying, \"I offer all the suffering I will have to suffer for the
+        Lord, the Pope, and the Church.\" As part of his devotion, Acutis asked his parents to take him to various
+        Eucharistic shrines, although his declining health made travel increasingly difficult.
+        \n\n
+        Acutis died in on October 12, 2006 at age 15, in Monza, Italy.
+        \n\n
+        Exactly four years following his death, his mother gave birth to twins which she attributed to her son\'s
+        intercession. She also said her son has appeared to her in dreams foretelling his canonization. Carlo Acutis was
+        labeled a \"Servant of God\" in 2013, one of the first steps towards canonization. A miracle was attributed to
+        him in November of 2019. In that miracle, a seven-year-old child who was born with a pancreatic defect was
+        miraculously healed. She prayed to Acutis, asking for his intercession and shortly after, the defect was
+        miraculously cured.
+        \n\n
+        Pope Francis announced the beatification of Carlo Acutis while visiting Assisi, Italy on October 10. He made
+        another announcement on October 11, during his Angelus prayer.
+        \n\n
+        Carlo Acutis\'s feast day is October 12, and he is a patron for computer programmers and youth.
+    </string>
+    <string name="joseph">
+        As Mary was from eternity predestined to be the mother of the Son of God; so also was Joseph elected to be the
+        guardian and protector of Jesus and of Mary.
+        In order to safeguard the reputation of the Virgin Mother and the honour of the Divine Son, God willed that Mary
+        by a marriage altogether heavenly should be espoused to the humblest, the purest, and the holiest of the royal
+        race of David, a virgin spouse for the Virgin Mother, who at the same time should be in the place of a father to
+        the Divine Son. Joseph was a righteous man\" (Matthew 1:18).
+        St Joseph, after Jesus and Mary is superior to all the other Saints, both of the Old and the New Testament.
+        \n\n
+        An angel came to Joseph in a dream and told him, 20 \"Joseph son of David, do not be afraid to take Mary home as
+        your wife, because what is conceived in her is from the Holy Spirit. 21 She will give birth to a son, and you
+        are to give him the name Jesus, because he will save his people from their sins,\" he did as the angel told him
+        and took Mary as his wife. (Matthew 1:19-25).
+        \n\n
+        Angel came again to tell him that his family was in danger, he immediately left everything he owned, all his
+        family and friends, and fled to a strange country with his young wife and the baby. He waited in Egypt without
+        question until the angel told him it was safe to go back (Matthew 2:13-23)
+        \n\n
+        When Jesus stayed in the Temple we are told Joseph (along with Mary) searched with great anxiety for three days
+        for him (Luke 2:48). We also know that Joseph treated Jesus as his own son for over and over the people of
+        Nazareth say of Jesus, \"Is this not the son of Joseph?\" (Luke 4:22)
+        \n\n
+        We know Joseph respected God. He followed God\'s commands in handling the situation with Mary and going to
+        Jerusalem to have Jesus circumcised and Mary purified after Jesus\' birth. We are told that he took his family
+        to Jerusalem every year for Passover, something that could not have been easy for a working man.
+        Joseph is the patron saint of the dying because, assuming he died before Jesus\' public life, he died with Jesus
+        and Mary close to him, the way we all would like to leave this earth
+        \n\n
+        Joseph is also patron saint of the Universal Church, families, fathers, expectant mothers (pregnant women),
+        travelers, immigrants, house sellers and buyers, craftsmen, engineers, and working people in general.
+        We celebrate two feast days for Joseph: March 19 for Joseph the Husband of Mary and May 1 for Joseph the Worker.
+        March 19 has been the most commonly celebrated feast day for Joseph, and it wasn\'t until 1955 that Pope Pius
+        XII established the Feast of \"St. Joseph the Worker\" to be celebrated on May 1. This is also May Day
+        (International Workers\' Day) and believed to reflect Joseph\'s status as the patron of workers.
+        \n\n
+        Many places and churches all over the world are named after St. Joseph, including the Spanish form, San Jose,
+        which is the most commonly named place in the world. Joseph is considered by many to also be the patron saint of
+        the New World; of the countries China, Canada, Korea, Mexico, Austria, Belgium, Croatia, Peru, Vietnam; of the
+        regions Carinthia, Styria, Tyrol, Sicily; and of several main cities and dioceses.
+        \n\n
+        Some statues of Joseph show his staff topped with flowers. St. Joseph is shown with the attributes of a
+        carpenter\'s square or tools, the infant Jesus, his lily blossomed staff, two turtle doves, or a spikenard.
+        \n\n
+        Prayer:\n
+        Saint Joseph, patron of the universal Church, watch over the Church as carefully as you watched over Jesus, help
+        protect it and guide it as you protected your son Jesus. Amen
+    </string>
+    <string name="clare">
+        \n\n
+        St. Clare of Assisi was born in Assisi on July 16, 1194, as Chiara Offreduccio, the beautiful eldest daughter of
+        Favorino Sciffi, Count of Sasso-Rosso and his wife Ortolana. Tradition says her father was a wealthy
+        representative of an ancient Roman family and her mother was a very devout woman belonging to the noble family
+        of Fiumi.
+        \n\n
+        As a young girl, Clare dedicated herself to prayer. At 18-years-old, she heard St. Francis of Assisi preach
+        during a Lenten service in the church of San Giorgio and asked him to help her live according to the Gospel. On
+        Palm Sunday in 1212, Clare left her father\'s home and went to the chapel of the Porziuncula to meet with
+        Francis. While there, Clare\'s hair was cut off and she was given a plain robe and veil in exchange for her rich
+        gown.
+        \n\n
+        Clare joined the convent of the Benedictine nuns of San Paulo, near Bastia, under Francis\' orders. When her
+        father found her and attempted to force her back into his home, she refused and professed that she would have no
+        other husband than Jesus Christ. In order to give her the greater solitude she desired, Francis sent Clare to
+        Sant\' Angelo in Panzo, another Benedictine nuns monastery.
+        \n\n
+        In 1224, an army of rough soldiers from Frederick II came to attack Assisi. Although very sick, Clare went out
+        to meet them with the Blessed Sacrament on her hands. She had the Blessed Sacrament placed at the wall where the
+        enemies could see it. Then on her knees, she begged God to save the Sisters.
+        \n\n
+        \"O Lord, protect these Sisters whom I cannot protect now,\" she prayed. A voice seemed to answer: \"I will keep
+        them always in My care.\" In that moment, a sudden fright struck the attackers and they fled as fast as they
+        could without harming anyone in Assisi.
+        \n\n
+        St. Clare became sick and suffered great pains for many years, but she expressed that no pain could trouble her.
+        So great was her joy in serving the Lord that she once exclaimed: \"They say that we are too poor, but can a
+        heart which possesses the infinite God be truly called poor?\"
+        \n\n
+        On August 9, 1253, Pope Innocent IV declared Clare\'s rule would serve as the governing rule for Clare\'s Order
+        of Poor Ladies. Two days later, Clare died at 59-years-old. Her remains were placed in the chapel of San Giorgio
+        while the church dedicated to her remains was being built. At Pope Innocent\'s request, the canonization process
+        for Clare began immediately, and two years later in 1255, Pope Alexander IV canonized Clare as Saint Clare of
+        Assisi.
+        \n\n
+        The construction of the Basilica of Saint Clare was finished in 1260, and on October 3, 1260 Clare\'s remains
+        were transferred there and buried beneath the high altar. Nearly 600 years later, her remains were transferred
+        once again to a newly constructed shrine in the crypt of the Basilica of Saint Clare. Her body is no longer
+        claimed to be incorrupt.
+        \n\n
+        St. Clare was designated as the patron saint of television in 1958 by Pope Pius XII, because when St. Clare was
+        very ill, she could not attend mass and was reportedly able to see and hear it on the wall in her room. She is
+        also the patroness of eye disease, goldsmiths, and laundry.
+        \n\n
+        Clare is often pictured carrying a monstrance or pyx, to commemorate the time she warded off the soldiers at the
+        gates of her convent with the Blessed Sacrament.
+        \n\n
+        St. Clare\'s feast day is celebrated on August 11.
+    </string>
+    <string name="francisassisi">
+        \n\n
+        Founder of the Franciscan Order, born at Assisi in Umbria, in 1181.
+        \n\n
+        Francis enjoyed a very rich easy life growing up because of his father\'s wealth and the permissiveness of the
+        times. As he grew up, Francis became the leader of a crowd of young people who spent their nights in wild
+        parties. Thomas of Celano, his biographer who knew him well, said, \"In other respects an exquisite youth, he
+        attracted to himself a whole retinue of young people addicted to evil and accustomed to vice.\" Francis himself
+        said, \"I lived in sin\" during that time.
+        \n\n
+        Francis was also good at business. But Francis wanted more..more than wealth. But not holiness!. Assisi declared
+        war on their longtime enemy, the nearby town of Perugia.
+        \n\n
+        But Francis never got farther than one day\'s ride from Assisi. There he had a dream in which God told him he
+        had it all wrong and told him to return home. And return home he did. What must it have been like to return
+        without ever making it to battle — the boy who wanted nothing more than to be liked was humiliated, laughed at,
+        called a coward by the village and raged at by his father for the money wasted on armor.
+        \n\n
+        Francis\' conversion did not happen over night. God had waited for him for twenty-five years and now it was
+        Francis\' turn to wait. Francis started to spend more time in prayer. He went off to a cave and wept for his
+        sins. Sometimes God\'s grace overwhelmed him with joy. But life couldn\'t just stop for God. There was a
+        business to run, customers to wait on.
+        \n\n
+        One day while riding through the countryside, Francis, the man who loved beauty, who was so picky about food,
+        who hated deformity, came face to face with a leper. Repelled by the appearance and the smell of the leper,
+        Francis nevertheless jumped down from his horse and kissed the hand of the leper. When his kiss of peace was
+        returned, Francis was filled with joy. As he rode off, he turned around for a last wave, and saw that the leper
+        had disappeared. He always looked upon it as a test from God…that he had passed.
+        \n\n
+        His search for conversion led him to the ancient church at San Damiano. While he was praying there, he heard
+        Christ on the crucifix speak to him, \"Francis, repair my church.\" Francis assumed this meant church with a
+        small c — the crumbling building he was in. Acting again in his impetuous way, he took fabric from his
+        father\'s shop and sold it to get money to repair the church. His father saw this as an act of theft — and put
+        together with Francis\' cowardice, waste of money, and his growing disinterest in money made Francis seem more
+        like a madman than his son. Pietro dragged Francis before the bishop and in front of the whole town demanded
+        that Francis return the money and renounce all rights as his heir.
+        \n\n
+        The bishop was very kind to Francis; he told him to return the money and said God would provide. That was all
+        Francis needed to hear. He not only gave back the money but stripped off all his clothes — the clothes his
+        father had given him — until he was wearing only a hair shirt. In front of the crowd that had gathered he said,
+        \"Pietro Bernardone is no longer my father. From now on I can say with complete freedom, \'Our Father who art in
+        heaven.\'\" Wearing nothing but castoff rags, he went off into the freezing woods — singing. And when robbers
+        beat him later and took his clothes, he climbed out of the ditch and went off singing again. From then on
+        Francis had nothing…and everything.
+        \n\n
+        Francis went back to what he considered God\'s call. He begged for stones and rebuilt the San Damiano church
+        with his own hands, not realizing that it was the Church with a capital C that God wanted repaired. Scandal and
+        avarice were working on the Church from the inside while outside heresies flourished by appealing to those
+        longing for something different or adventurous.
+        \n\n
+        Soon Francis started to preach. (He was never a priest, though he was later ordained a deacon under his
+        protest.) Francis was not a reformer; he preached about returning to God and obedience to the Church. Francis
+        must have known about the decay in the Church, but he always showed the Church and its people his utmost
+        respect. When someone told him of a priest living openly with a woman and asked him if that meant the Mass was
+        polluted, Francis went to the priest, knelt before him, and kissed his hands — because those hands had held
+        God.
+        \n\n
+        Slowly companions came to Francis, people who wanted to follow his life of sleeping in the open, begging for
+        garbage to eat…and loving God. With companions, Francis knew he now had to have some kind of direction to this
+        life so he opened the Bible in three places. He read the command to the rich young man to sell all his good and
+        give to the poor, the order to the apostles to take nothing on their journey, and the demand to take up the
+        cross daily. \"Here is our rule,\" Francis said — as simple, and as seemingly impossible, as that. He was going
+        to do what no one thought possible any more — live by the Gospel. Francis took these commands so literally that
+        he made one brother run after the thief who stole his hood and offer him his robe!
+        \n\n
+        Francis never wanted to found a religious order — this former knight thought that sounded too military. He
+        thought of what he was doing as expressing God\'s brotherhood. His companions came from all walks of life, from
+        fields and towns, nobility and common people, universities, the Church, and the merchant class. Francis
+        practiced true equality by showing honor, respect, and love to every person whether they were beggar or pope.
+        \n\n
+        Francis\' brotherhood included all of God\'s creation. Much has been written about Francis\' love of nature but
+        his relationship was deeper than that. We call someone a lover of nature if they spend their free time in the
+        woods or admire its beauty. But Francis really felt that nature, all God\'s creations, were part of his
+        brotherhood. The sparrow was as much his brother as the pope.
+        \n\n
+        In one famous story, Francis preached to hundreds of birds about being thankful to God for their wonderful
+        clothes, for their independence, and for God\'s care. The story tells us the birds stood still as he walked
+        among him, only flying off when he said they could leave.
+        \n\n
+        Another famous story involves a wolf that had been eating human beings. Francis intervened when the town wanted
+        to kill the wolf and talked the wolf into never killing again. The wolf became a pet of the townspeople who made
+        sure that he always had plenty to eat.
+        \n\n
+        Following the Gospel literally, Francis and his companions went out to preach two by two. At first, listeners
+        were understandably hostile to these men in rags trying to talk about God\'s love. People even ran from them for
+        fear they\'d catch this strange madness! And they were right. Because soon these same people noticed that these
+        barefoot beggars wearing sacks seemed filled with constant joy. They celebrated life. And people had to ask
+        themselves: Could one own nothing and be happy? Soon those who had met them with mud and rocks, greeted them
+        with bells and smiles.
+        \n\n
+        Francis did not try to abolish poverty, he tried to make it holy. When his friars met someone poorer than they,
+        they would eagerly rip off the sleeve of their habit to give to the person. They worked for all necessities and
+        only begged if they had to. But Francis would not let them accept any money. He told them to treat coins as if
+        they were pebbles in the road. When the bishop showed horror at the friars\' hard life, Francis said, \"If we
+        had any possessions we should need weapons and laws to defend them.\" Possessing something was the death of love
+        for Francis. Also, Francis reasoned, what could you do to a man who owns nothing? You can\'t starve a fasting
+        man, you can\'t steal from someone who has no money, you can\'t ruin someone who hates prestige. They were truly
+        free.
+        \n\n
+        Francis was a man of action. His simplicity of life extended to ideas and deeds. If there was a simple way, no
+        matter how impossible it seemed, Francis would take it. So when Francis wanted approval for his brotherhood, he
+        went straight to Rome to see Pope Innocent III. You can imagine what the pope thought when this beggar
+        approached him! As a matter of fact he threw Francis out. But when he had a dream that this tiny man in rags
+        held up the tilting Lateran basilica, he quickly called Francis back and gave him permission to preach.
+        \n\n
+        Francis acted quickly because he acted from the heart; he didn\'t have time to put on a role. Once he was so
+        sick and exhausted, his companions borrowed a mule for him to ride. When the man who owned the mule recognized
+        Francis he said, \"Try to be as virtuous as everyone thinks you are because many have a lot of confidence in
+        you.\" Francis dropped off the mule and knelt before the man to thank him for his advice.
+        \n\n
+        Another example of his directness came when he decided to go to Syria to convert the Moslems while the Fifth
+        Crusade was being fought. In the middle of a battle, Francis decided to do the simplest thing and go straight to
+        the sultan to make peace. When he and his companion were captured, the real miracle was that they weren\'t
+        killed. Instead Francis was taken to the sultan who was charmed by Francis and his preaching. He told Francis,
+        \"I would convert to your religion which is a beautiful one — but both of us would be murdered.\"
+        \n\n
+        Francis did find persecution and martyrdom of a kind — not among the Moslems, but among his own brothers. When
+        he returned to Italy, he came back to a brotherhood that had grown to 5000 in ten years. Pressure came from
+        outside to control this great movement, to make them conform to the standards of others. His dream of radical
+        poverty was too harsh, people said. Francis responded, \"Lord, didn\'t I tell you they wouldn\'t trust you?\"
+        \n\n
+        He finally gave up authority in his order — but he probably wasn\'t too upset about it. Now he was just another
+        brother, like he\'d always wanted.
+        \n\n
+        Francis\' final years were filled with suffering as well as humiliation. Praying to share in Christ\'s passion
+        he had a vision received the stigmata, the marks of the nails and the lance wound that Christ suffered, in his
+        own body.
+        \n\n
+        Years of poverty and wandering had made Francis ill. When he began to go blind, the pope ordered that his eyes
+        be operated on. This meant cauterizing his face with a hot iron. Francis spoke to \"Brother Fire\": \"Brother
+        Fire, the Most High has made you strong and beautiful and useful. Be courteous to me now in this hour, for I
+        have always loved you, and temper your heat so that I can endure it.\" And Francis reported that Brother Fire
+        had been so kind that he felt nothing at all.
+        \n\n
+        How did Francis respond to blindness and suffering? That was when he wrote his beautiful Canticle of the Sun
+        that expresses his brotherhood with creation in praising God.
+        \n\n
+        Francis never recovered from this illness. He died on October 4, 1226 at the age of 45. Francis is considered
+        the founder of all Franciscan orders and the patron saint of ecologists and merchants.
+
+
+    </string>
+    <string name="brief_angel">
+        Heaven is the place of immortality, eternal glory and happiness. The angels praise and glorify Him, who is
+        worthy of eternal praise. The angels in heaven always see the face of the Heavenly Father.
+        \n\n
+        In the Nicene creed, it is said, \"I believe in God the Creator of all things, visible and invisible\". Angels
+        are the invisible ones, they have no body, they are pure spirits. The presence of angels is everywhere. They are
+        immortal have more intelligence and power than men.
+        \n\n
+        The angels are countless as David says, \"the chariots of God are thousands and millions of millions\". In
+        Revelations, St John saw the Lamb of God on the throne and was attended by thousands of Angels.
+        \n\n
+        The Angels are free creatures, they are called to know the truth by their instinctive power. The Angels do not
+        have age or gender, there is no marriage in Heaven. The Angels are pure spirits and they have a free world. St
+        Agustine says, \"Angel is the name of their work, Spirit is the name of their nature.\"
+        \n\n
+        The existence of Angels was confirmed by the 4th Lateran Counsil in 1215. God in the beginning of time created
+        supernatural beings and bodily beings together, i.e. beings like angels and those with body. Man was created
+        with both natures. That is, He created man with both body and Spirit. In other words, God created both these
+        realities right in the beginning-Spiritual reality and bodily reality-the material world and the world of
+        angels. He did this to create man, who is a combination of both Spirit and Matter. The faith of the Church
+        accepts along with their existence, some particular characteristics in the nature of Angels their total super
+        naturalism without any materiality and their immortality. The angels have no body.
+        \n\n
+        They are closer to God than earthly creatures. They form a close circle around the creator. The Holy scriptures
+        give a proof that they are close to God as it regards them as \"Army of God\", \"His heavens\".
+    </string>
+    <string name="memorare">
+        Remember, O most gracious Virgin Mary, that never was it known that anyone who fled to thy protection, implored
+        thy help, or sought thine intercession was left unaided.
+        \n\n
+        Inspired by this confidence, I fly unto thee, O Virgin of virgins, my mother; to thee do I come, before thee I
+        stand, sinful and sorrowful. O Mother of the Word Incarnate, despise not my petitions, but in thy mercy
+        hear and
+        answer me.
+        \n\n
+        Amen.\n\n\n
+
+    </string>
+    <string name="memorare_mar">
+        हे मायाळू कुमारी मरिये, जो कोणी आपल्या संरक्षणासाठी तुझ्याकडे धावत आला, तुझे साहाय्य मागितले व तुझ्या मध्यस्थीची
+        याचना केली, त्याच्याकडे तू पाठ फिरवलीस असे कोणी कधी ऐकले नाही, हे तू ध्यानात घे. \n\nहे परमश्रेष्ठ कुमारी आणि
+        माता,
+        तुझ्या चांगुलपणावर विसंबून मी पश्चात्तापी, तुझ्याकडे धाव घेतो, तुझ्याजवळ येतो आणि तुझ्यापुढे उभा राहतो, हे
+        देवपुत्राचे माते, माझी विनंती नाकारू नकोस तर कृपा करून ती ऐक आणि मान्य कर.\n\nआमेन
+    </string>
+    <string name="the_mysteries_of_the_rosary">The Mysteries of the Rosary</string>
+    <!--    <string name="cred_mar">प्रेषितांचा विश्वासांगिकार\n\n स्वर्ग आणि पृथ्वी यांचा उत्पन्नकर्ता । सर्व समर्थ परमेश्वर-->
+    <!--        पिता । यावर माझा विश्वास आहे । त्याचा एकुलता एक पुत्र । आमचा प्रभू येशू ख्रिस्त । यावरहीमाझा विश्वास आहे । तो-->
+    <!--        पवित्र आत्म्याच्या योगाने गर्भी संभवला कुमारी मरियेपासून जन्मला। पोन्ती पिलाताच्या अमलाखाली । त्याने दुःख भोगले।-->
+    <!--        त्याला क्रुसावर खिळले। तो मरण पावला । त्याला पुरले । तो अधोलोकांत उतरला । तिसऱ्या दिवशी मेलेल्यांतून उठला ।-->
+    <!--        स्वर्गात चढला आणि सर्वसमर्थ देवपित्याच्या उजवीकडे बसला आहे । तेथून तो जिवंत आणि मेलेले । यांचा न्याय करावयास ।-->
+    <!--        पुन्हा येईल । पवित्र आत्मा । पवित्र कॅथोलिक ख्रिस्तसभा । संतांचा परस्पर संबंध । पापांची क्षमा देहाचे पुनरूत्थान-->
+    <!--        । आणि अनंतकाळचे जीवन । यावर माझा विश्वास आहे । \n\nआमेन.-->
+    <!--    </string>-->
+    <!--    <string name="creed_mar">प्रेषितांचा विश्वासांगिकार \n\n स्वर्ग आणि पृथ्वी यांचा उत्पन्नकर्ता । सर्व-->
+    <!--        समर्थ-->
+    <!--        परमेश्वर-->
+    <!--        पिता । यावर माझा विश्वास आहे । त्याचा एकुलता एक पुत्र । आमचा प्रभू येशू ख्रिस्त । यावरहीमाझा विश्वास आहे । तो-->
+    <!--        पवित्र-->
+    <!--        आत्म्याच्या योगाने गर्भी संभवला कुमारी मरियेपासून जन्मला। पोन्ती पिलाताच्या अमलाखाली । त्याने दुःख भोगले। त्याला-->
+    <!--        क्रुसावर खिळले। तो मरण पावला । त्याला पुरले । तो अधोलोकांत उतरला । तिसऱ्या दिवशी मेलेल्यांतून उठला । स्वर्गात-->
+    <!--        चढला आणि सर्वसमर्थ देवपित्याच्या उजवीकडे बसला आहे । तेथून तो जिवंत आणि मेलेले । यांचा न्याय करावयास । पुन्हा-->
+    <!--        येईल । पवित्र आत्मा । पवित्र कॅथोलिक ख्रिस्तसभा । संतांचा परस्पर संबंध । पापांची क्षमा देहाचे पुनरूत्थान । आणि-->
+    <!--        अनंतकाळचे जीवन । यावर माझा विश्वास आहे । \n\n आमेन.-->
+    <!--    </string>-->
+
+    <string name="Mystery_of_rosary">
+        <font color="#D2042D">Joyful Mystery of the Rosary \n(Monday and Saturday)</font>
+        \n\n\n\n1.The Annunciation of the Lord to Mary
+        \n\n2.The Visitation of Mary to Elizabeth
+        \n\n3.The Nativity of our Lord Jesus Christ
+        \n\n4.The Presentation of our Lord
+        \n\n5.Finding Jesus in the Temple
+        <font color="#D2042D">\n\n\n\nSorrowful Mystery of the Rosary \n(Tuesday and Friday)</font>
+        \n\n1.The Agony of Jesus in the Garden
+        \n\n2.The Scourging at the Pillar
+        \n\n3.Jesus is Crowned with Thorns
+        \n\n4.Jesus Carried the Cross
+        \n\n5.The Crucifixion of our Lord
+        <font color="#D2042D">\n\n\n\nGlorious Mystery of the Rosary \n(Wednesday and Sunday)</font>
+        \n\n1.The Resurrection of Jesus Christ
+        \n\n2.The Ascension of Jesus to Heaven
+        \n\n3.The Descent of the Holy Spirit
+        \n\n4.The Assumption of Mary into Heaven
+        \n\n5.Mary is Crowned as Queen of Heaven and Earth
+        <font color="#D2042D">\n\n\nLuminous Mystery of the Rosary \n(Thursday)</font>
+        \n\n1.The Baptism in the Jordan
+        \n\n2.The Wedding at Cana
+        \n\n3.The Proclamation of the Kingdom
+        \n\n4.The Transfiguration
+        \n\n5.The Institution of the Eucharist
+    </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="creed_mar">प्रेषितांचा विश्वासांगिकार\n\n स्वर्ग आणि पृथ्वी यांचा उत्पन्नकर्ता । सर्व समर्थ परमेश्वर
+        पिता । यावर माझा विश्वास आहे । त्याचा एकुलता एक पुत्र । आमचा प्रभू येशू ख्रिस्त । यावरहीमाझा विश्वास आहे । तो
+        पवित्र आत्म्याच्या योगाने गर्भी संभवला कुमारी मरियेपासून जन्मला। पोन्ती पिलाताच्या अमलाखाली । त्याने दुःख भोगले।
+        त्याला क्रुसावर खिळले। तो मरण पावला । त्याला पुरले । तो अधोलोकांत उतरला । तिसऱ्या दिवशी मेलेल्यांतून उठला ।
+        स्वर्गात चढला आणि सर्वसमर्थ देवपित्याच्या उजवीकडे बसला आहे । तेथून तो जिवंत आणि मेलेले । यांचा न्याय करावयास ।
+        पुन्हा येईल । पवित्र आत्मा । पवित्र कॅथोलिक ख्रिस्तसभा । संतांचा परस्पर संबंध । पापांची क्षमा देहाचे पुनरूत्थान
+        । आणि अनंतकाळचे जीवन । यावर माझा विश्वास आहे । \n\nआमेन.
+    </string>
+    <string name="litany">
+        Lord, have mercy.\n
+        Christ, have mercy.\n
+        Lord, have mercy.\n
+        Christ, hear us.\n
+        Christ, graciously hear us.\n\n
+
+
+        God, the Father of heaven, have mercy on us.\n
+        God the Son, Redeemer of the world, have mercy on us.\n
+        God the Holy Spirit, have mercy on us.\n
+        Holy Trinity, one God, have mercy on us.\n\n
+
+
+        Holy Mary, pray for us.\n
+        Holy Mother of God, pray for us.\n
+        Holy Virgin of virgins, pray for us.\n
+        Mother of Christ, pray for us.\n
+        Mother of the Church, pray for us.\n
+        Mother of divine grace, pray for us.\n
+        Mother most pure, pray for us.\n
+        Mother most chaste, pray for us.\n
+        Mother inviolate, pray for us.\n
+        Mother undefiled, pray for us.\n
+        Mother most amiable, pray for us.\n
+        Mother most admirable, pray for us.\n
+        Mother of good counsel, pray for us.\n
+        Mother of our Creator, pray for us.\n
+        Mother of our Savior, pray for us.\n
+        Virgin most prudent, pray for us.\n
+        Virgin most venerable, pray for us.\n
+        Virgin most renowned, pray for us.\n
+        Virgin most powerful, pray for us.\n
+        Virgin most merciful, pray for us.\n
+        Virgin most faithful, pray for us.\n
+        Mirror of justice, pray for us.\n
+        Seat of wisdom, pray for us.\n
+        Cause of our joy, pray for us.\n
+        Spiritual vessel, pray for us.\n
+        Vessel of honor, pray for us.\n
+        Singular vessel of devotion, pray for us.\n
+        Mystical rose, pray for us.\n
+        Tower of David, pray for us.\n
+        Tower of ivory, pray for us.\n
+        House of gold, pray for us.\n
+        Ark of the covenant, pray for us.\n
+        Gate of heaven, pray for us.\n
+        Morning star, pray for us.\n
+
+        Health of the sick, pray for us.\n
+        Refuge of sinners, pray for us.\n
+        Comforter of the afflicted, pray for us.\n
+        Help of Christians, pray for us.\n
+        Queen of Angels, pray for us.\n
+        Queen of Patriarchs, pray for us.\n
+        Queen of Prophets, pray for us.\n
+        Queen of Apostles, pray for us.\n
+        Queen of Martyrs, pray for us.\n
+        Queen of Confessors, pray for us.\n
+        Queen of Virgins, pray for us.\n
+        Queen of all Saints, pray for us.\n
+        Queen conceived without original sin, pray for us.\n
+        Queen assumed into heaven, pray for us.\n
+        Queen of the most holy Rosary, pray for us.\n
+        Queen of families, pray for us.\n
+        Queen of peace, pray for us.\n\n\n
+
+
+        Lamb of God, You take away sins of the world, spare us, O Lord.\n
+        Lamb of God, You take away the sins of the world, graciously hear us, O Lord.\n
+        Lamb of God, Your take away the sins of the world, have mercy on us.\n
+        \n\n
+
+        Pray for us, O holy Mother of God.\n
+        That we may be made worthy of the promises of Christ.\n
+        \n
+        Let us pray.\n
+        Grant, we beseech You, O Lord God, that we Your servants may enjoy perpetual health
+        of mind and body, and by the glorious intercession of the Blessed Mary, ever Virgin,
+        may be delivered from present sorrow and obtain eternal joy.
+        Through Christ our Lord. \n\nAmen.
+    </string>
+    <string name="title_activity_litany">LitanyActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>

@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:weightSum="1"
+    tools:context="com.rhinepereira.saints.Child_Saints_Activity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+
+            <Button
+                android:id="@+id/button2"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+               
+                android:text=" st.Dominic savio"/>
+
+            <Button
+                android:id="@+id/button3"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:visibility="gone"
+               
+                android:text=" st.bernadette"/>
+
+
+
+            <Button
+                android:id="@+id/button4"
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+               
+                android:text=" st.tarcisius"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button5"
+               
+                android:text="St maria goretti"/>
+
+
+
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:id="@+id/button6"
+               
+                android:text=" st.philomena"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button7"
+               
+                android:text="st.agnes of rome"/>
+
+
+
+
+
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:id="@+id/button8"
+               
+                android:text=" st.rose of viterbo "/>
+
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:id="@+id/button9"
+               
+                android:text=" st.imelda lambertini"/>
+
+
+
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:id="@+id/button10"
+               
+                android:text=" st.vitus"/>
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/button11"
+               
+                android:text="St.jose sanchez del rio"/>
+
+
+
+            <Button
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+               
+                android:id="@+id/button12"
+                android:text=" st.crescentius of rome"/>
+
+            <Button
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+
+                    android:id="@+id/button13"
+                    android:text="st.Carlo Acutis"/>
+
+
+
+
+    </LinearLayout>
+
+    <!--<LinearLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:orientation="vertical">-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/child_saints"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large" />-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/domnic"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large" />-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/dominicsavio"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/bernadette"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large" />-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/bernadette"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/tarcisius"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/tarcisius"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/maria"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/mariagoretti"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/philomena"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/philomena"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/agnes"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/agnes"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/rose_of_viterbo"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/rose"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/imelda"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/imeldalambertini"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:textIsSelectable="true"-->
+            <!--android:text="@string/vitus"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/st_vitus"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/luis"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/jose_sanchez_delrio"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_marginTop="32dp"-->
+            <!--android:text="@string/crescentius"-->
+            <!--android:textAppearance="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<ImageView-->
+            <!--android:layout_width="wrap_content"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:layout_gravity="center_horizontal"-->
+            <!--app:srcCompat="@drawable/crescentius"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--style="@style/TextAppearance.AppCompat.Large"-->
+            <!--android:autoLink="web"-->
+            <!--android:text="@string/link_saints"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:visibility="gone"-->
+            <!--android:text="@string/some_extra_child_saints"-->
+            <!--style="@style/TextAppearance.AppCompat.Large"/>-->
+        <!--<TextView-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:visibility="gone"-->
+            <!--style="@style/TextAppearance.AppCompat.Large"-->
+            <!--android:text="@string/extra"/>-->
+    <!--</LinearLayout>-->
+</ScrollView>

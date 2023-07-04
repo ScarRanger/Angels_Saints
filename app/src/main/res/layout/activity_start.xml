@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:padding="16dp"
+    android:layout_gravity="center"
+
+    tools:context="com.rhinepereira.saints.StartActivity">
+
+    <LinearLayout
+        android:layout_gravity="center_horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                    android:layout_weight="0.5"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <Button
+                        android:id="@+id/button6"
+                        style="@style/styleMainButton"
+                        android:background="@drawable/angels_12" />
+
+                <TextView
+                        android:id="@+id/textView16"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textColor="@color/white"
+                        android:text="@string/angels_"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_weight="0.5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/button2"
+                    style="@style/styleMainButton"
+                    android:background="@drawable/peter_1"/>
+
+                <TextView
+                    android:id="@+id/textView13"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:textColor="@color/white"
+                    android:text="@string/apostles_1"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+
+            </LinearLayout>
+
+
+
+
+
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+                    android:textColor="@color/white"
+            android:layout_marginTop="32dp"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                    android:layout_weight="0.5"
+                    android:layout_width="0dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                <Button
+                        android:id="@+id/button7"
+                        style="@style/styleMainButton"
+                        android:elevation="20dp"
+                        android:background="@drawable/joseph" />
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textColor="@color/white"
+                        android:text="Saints"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+            </LinearLayout>
+
+
+
+            <LinearLayout
+                android:layout_weight="0.5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="32dp"
+                android:orientation="vertical">
+
+<!--                <Button-->
+<!--                    android:id="@+id/button5"-->
+<!--                    style="@style/styleMainButton"-->
+<!--                    android:background="@drawable/bible1"/>-->
+<!--                <TextView-->
+<!--                    android:id="@+id/textView15"-->
+<!--                    android:minLines="2"-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:gravity="center_horizontal"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:textColor="@color/white"-->
+<!--                    android:text="@string/bible"-->
+<!--                    android:textAppearance="@style/TextAppearance.AppCompat.Large" />-->
+                <Button
+                        android:id="@+id/button8"
+                        style="@style/styleMainButton"
+                        android:background="@drawable/domnic_1" />
+
+                <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:textColor="@color/white"
+                        android:text="Child Saints"
+                        android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+
+
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="32dp"
+            android:baselineAligned="false">
+
+            <LinearLayout
+                android:layout_weight="0.5"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/button3"
+                    style="@style/styleMainButton"
+                    android:background="@drawable/hands_1" />
+
+                <TextView
+                    android:id="@+id/textView14"
+                    android:minLines="2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center"
+                    android:textColor="@color/white"
+                    android:gravity="center_horizontal"
+                    android:text="@string/common_prayer"
+                    android:textAppearance="@style/TextAppearance.AppCompat.Large" />
+            </LinearLayout>
+
+<!--            <LinearLayout-->
+<!--                android:layout_weight="0.5"-->
+<!--                android:layout_width="0dp"-->
+<!--                android:layout_height="wrap_content"-->
+<!--                android:layout_marginLeft="32dp"-->
+<!--                android:orientation="vertical">-->
+
+<!--                <Button-->
+<!--                    android:id="@+id/button8"-->
+<!--                    style="@style/styleMainButton"-->
+<!--                    android:background="@drawable/dominicsavio2" />-->
+
+<!--                <TextView-->
+<!--                    android:layout_width="wrap_content"-->
+<!--                    android:layout_height="wrap_content"-->
+<!--                    android:layout_gravity="center"-->
+<!--                    android:textColor="@color/white"-->
+<!--                    android:text="Child Saints"-->
+<!--                    android:textAppearance="@style/TextAppearance.AppCompat.Large" />-->
+<!--            </LinearLayout>-->
+        </LinearLayout>
+    </LinearLayout>
+</ScrollView>
+
