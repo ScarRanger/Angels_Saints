@@ -3,12 +3,13 @@
               xmlns:tools="http://schemas.android.com/tools"
               android:layout_width="match_parent"
               android:layout_height="match_parent"
-              tools:context=".MysteryMarFragment">
+              tools:context=".MysteryFragment">
 
-    <!-- TODO: Update blank fragment layout -->
-    <TextView
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:text="Marathi"/>
+    <TextView android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              style="@style/TextAppearance.AppCompat.Large"
+              android:text="@string/mystery_mar">
+
+    </TextView>
 
 </LinearLayout>

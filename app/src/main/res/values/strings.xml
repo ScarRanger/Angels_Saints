@@ -1446,18 +1446,18 @@
 
     <string name="Mystery_of_rosary">
         <font color="#D2042D">Joyful Mystery of the Rosary \n(Monday and Saturday)</font>
-        \n\n\n\n1.The Annunciation of the Lord to Mary
+        \n\n\n1.The Annunciation of the Lord to Mary
         \n\n2.The Visitation of Mary to Elizabeth
         \n\n3.The Nativity of our Lord Jesus Christ
         \n\n4.The Presentation of our Lord
         \n\n5.Finding Jesus in the Temple
-        <font color="#D2042D">\n\n\n\nSorrowful Mystery of the Rosary \n(Tuesday and Friday)</font>
+        <font color="#D2042D">\n\n\nSorrowful Mystery of the Rosary \n(Tuesday and Friday)</font>
         \n\n1.The Agony of Jesus in the Garden
         \n\n2.The Scourging at the Pillar
         \n\n3.Jesus is Crowned with Thorns
         \n\n4.Jesus Carried the Cross
         \n\n5.The Crucifixion of our Lord
-        <font color="#D2042D">\n\n\n\nGlorious Mystery of the Rosary \n(Wednesday and Sunday)</font>
+        <font color="#D2042D">\n\n\nGlorious Mystery of the Rosary \n(Wednesday and Sunday)</font>
         \n\n1.The Resurrection of Jesus Christ
         \n\n2.The Ascension of Jesus to Heaven
         \n\n3.The Descent of the Holy Spirit
@@ -1480,87 +1480,84 @@
         पुन्हा येईल । पवित्र आत्मा । पवित्र कॅथोलिक ख्रिस्तसभा । संतांचा परस्पर संबंध । पापांची क्षमा देहाचे पुनरूत्थान
         । आणि अनंतकाळचे जीवन । यावर माझा विश्वास आहे । \n\nआमेन.
     </string>
-    <string name="litany">
-        Lord, have mercy.\n
-        Christ, have mercy.\n
-        Lord, have mercy.\n
-        Christ, hear us.\n
-        Christ, graciously hear us.\n\n
+    <string name="litany"> Lord, have mercy. <font color="#FFA500">Lord, have mercy.</font>\n
+        Christ, have mercy. <font color="#FFA500">Christ, have mercy</font>\n
+        Lord, have mercy. <font color="#FFA500">Lord, have mercy</font>\n
+        Christ, hear us. <font color="#FFA500">Christ, hear us</font>\n
+        Christ, graciously hear us. <font color="#FFA500">Christ, graciously hear us</font>\n\n
 
 
-        God, the Father of heaven, have mercy on us.\n
-        God the Son, Redeemer of the world, have mercy on us.\n
-        God the Holy Spirit, have mercy on us.\n
-        Holy Trinity, one God, have mercy on us.\n\n
+        God, the Father of heaven,  <font color="#FFA500">have mercy on us.</font>\n
+        God the Son, Redeemer of the world,  <font color="#FFA500">have mercy on us.</font>\n
+        God the Holy Spirit,   <font color="#FFA500">have mercy on us.</font>\n
+        Holy Trinity, one God,  <font color="#FFA500">have mercy on us.</font>\n\n
 
 
-        Holy Mary, pray for us.\n
-        Holy Mother of God, pray for us.\n
-        Holy Virgin of virgins, pray for us.\n
-        Mother of Christ, pray for us.\n
-        Mother of the Church, pray for us.\n
-        Mother of divine grace, pray for us.\n
-        Mother most pure, pray for us.\n
-        Mother most chaste, pray for us.\n
-        Mother inviolate, pray for us.\n
-        Mother undefiled, pray for us.\n
-        Mother most amiable, pray for us.\n
-        Mother most admirable, pray for us.\n
-        Mother of good counsel, pray for us.\n
-        Mother of our Creator, pray for us.\n
-        Mother of our Savior, pray for us.\n
-        Virgin most prudent, pray for us.\n
-        Virgin most venerable, pray for us.\n
-        Virgin most renowned, pray for us.\n
-        Virgin most powerful, pray for us.\n
-        Virgin most merciful, pray for us.\n
-        Virgin most faithful, pray for us.\n
-        Mirror of justice, pray for us.\n
-        Seat of wisdom, pray for us.\n
-        Cause of our joy, pray for us.\n
-        Spiritual vessel, pray for us.\n
-        Vessel of honor, pray for us.\n
-        Singular vessel of devotion, pray for us.\n
-        Mystical rose, pray for us.\n
-        Tower of David, pray for us.\n
-        Tower of ivory, pray for us.\n
-        House of gold, pray for us.\n
-        Ark of the covenant, pray for us.\n
-        Gate of heaven, pray for us.\n
-        Morning star, pray for us.\n
+        Holy Mary,  <font color="#FFA500">pray for us.</font>\n
+        Holy Mother of God,  <font color="#FFA500">pray for us.</font>\n
+        Holy Virgin of virgins,  <font color="#FFA500">pray for us.</font>\n
+        Mother of Christ,  <font color="#FFA500">pray for us.</font>\n
+        Mother of the Church,  <font color="#FFA500">pray for us.</font>\n
+        Mother of divine grace,  <font color="#FFA500">pray for us.</font>\n
+        Mother most pure,  <font color="#FFA500">pray for us.</font>\n
+        Mother most chaste,  <font color="#FFA500">pray for us.</font>\n
+        Mother inviolate,  <font color="#FFA500">pray for us.</font>\n
+        Mother undefiled,  <font color="#FFA500">pray for us.</font>\n
+        Mother most amiable,  <font color="#FFA500">pray for us.</font>\n
+        Mother most admirable,  <font color="#FFA500">pray for us.</font>\n
+        Mother of good counsel,  <font color="#FFA500">pray for us.</font>\n
+        Mother of our Creator,  <font color="#FFA500">pray for us.</font>\n
+        Mother of our Savior,  <font color="#FFA500">pray for us.</font>\n
+        Virgin most prudent,  <font color="#FFA500">pray for us.</font>\n
+        Virgin most venerable,  <font color="#FFA500">pray for us.</font>\n
+        Virgin most renowned,  <font color="#FFA500">pray for us.</font>\n
+        Virgin most powerful,  <font color="#FFA500">pray for us.</font>\n
+        Virgin most merciful,  <font color="#FFA500">pray for us.</font>\n
+        Virgin most faithful,  <font color="#FFA500">pray for us.</font>\n
+        Mirror of justice,  <font color="#FFA500">pray for us.</font>\n
+        Seat of wisdom,  <font color="#FFA500">pray for us.</font>\n
+        Cause of our joy,  <font color="#FFA500">pray for us.</font>\n
+        Spiritual vessel,  <font color="#FFA500">pray for us.</font>\n
+        Vessel of honor,  <font color="#FFA500">pray for us.</font>\n
+        Singular vessel of devotion, <font color="#FFA500">pray for  us.</font>\n
+        Mystical rose,  <font color="#FFA500">pray for us.</font>\n
+        Tower of David,  <font color="#FFA500">pray for us.</font>\n
+        Tower of ivory,  <font color="#FFA500">pray for us.</font>\n
+        House of gold,  <font color="#FFA500">pray for us.</font>\n
+        Ark of the covenant,  <font color="#FFA500">pray for us.</font>\n
+        Gate of heaven,  <font color="#FFA500">pray for us.</font>\n
+        Morning star,  <font color="#FFA500">pray for us.</font>\n
 
-        Health of the sick, pray for us.\n
-        Refuge of sinners, pray for us.\n
-        Comforter of the afflicted, pray for us.\n
-        Help of Christians, pray for us.\n
-        Queen of Angels, pray for us.\n
-        Queen of Patriarchs, pray for us.\n
-        Queen of Prophets, pray for us.\n
-        Queen of Apostles, pray for us.\n
-        Queen of Martyrs, pray for us.\n
-        Queen of Confessors, pray for us.\n
-        Queen of Virgins, pray for us.\n
-        Queen of all Saints, pray for us.\n
-        Queen conceived without original sin, pray for us.\n
-        Queen assumed into heaven, pray for us.\n
-        Queen of the most holy Rosary, pray for us.\n
-        Queen of families, pray for us.\n
-        Queen of peace, pray for us.\n\n\n
+        Health of the sick,  <font color="#FFA500">pray for us.</font>\n
+        Refuge of sinners,  <font color="#FFA500">pray for us.</font>\n
+        Comforter of the afflicted,  <font color="#FFA500">pray for us.</font>\n
+        Help of Christians,  <font color="#FFA500">pray for us.</font>\n
+        Queen of Angels,  <font color="#FFA500">pray for us.</font>\n
+        Queen of Patriarchs,  <font color="#FFA500">pray for us.</font>\n
+        Queen of Prophets,  <font color="#FFA500">pray for us.</font>\n
+        Queen of Apostles,  <font color="#FFA500">pray for us.</font>\n
+        Queen of Martyrs,  <font color="#FFA500">pray for us.</font>\n
+        Queen of Confessors,  <font color="#FFA500">pray for us.</font>\n
+        Queen of Virgins,  <font color="#FFA500">pray for us.</font>\n
+        Queen of all Saints,  <font color="#FFA500">pray for us.</font>\n
+        Queen conceived without original sin,   <font color="#FFA500">pray for us.</font>\n
+        Queen assumed into heaven, <font color="#FFA500">pray for  us.</font>\n
+        Queen of the most holy Rosary, <font color ="#FFA500">pray  for us.</font>\n
+        Queen of families,  <font color="#FFA500">pray for us.</font>\n
+        Queen of peace,  <font color="#FFA500">pray for us.</font>\n\n\n
 
 
-        Lamb of God, You take away sins of the world, spare us, O Lord.\n
-        Lamb of God, You take away the sins of the world, graciously hear us, O Lord.\n
-        Lamb of God, Your take away the sins of the world, have mercy on us.\n
-        \n\n
+        Lamb of God, You take away sins of  the world, <font color="#FFA500">spare us, O Lord.</font>\n\n
+        Lamb of God, You take away the sins of the world, <font color="#FFA500">graciously hear us, O Lord.</font>\n\n
+        Lamb of God, You take away the sins of the world, <font color ="#FFA500">have mercy on us.</font>
+        \n\n\n
 
         Pray for us, O holy Mother of God.\n
-        That we may be made worthy of the promises of Christ.\n
-        \n
-        Let us pray.\n
-        Grant, we beseech You, O Lord God, that we Your servants may enjoy perpetual health
+        <font color="#FFA500">That we may be made worthy of the promises of Christ.</font>\n
+        \nLet us pray.\nGrant, we beseech You, O Lord God, that we, Your servants may enjoy perpetual health
         of mind and body, and by the glorious intercession of the Blessed Mary, ever Virgin,
         may be delivered from present sorrow and obtain eternal joy.
-        Through Christ our Lord. \n\nAmen.
+        Through Christ our Lord. \n\nAmen.\n\n
     </string>
     <string name="title_activity_litany">LitanyActivity</string>
     <!-- Strings used for fragments for navigation -->
@@ -1571,5 +1568,169 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="mystery_mar"><font color="#D2042D">आनंदाची रहस्ये (सोमवारी व शनिवारी)</font>\n\n
+
+        १. देवदुताने मरियेला संदेश दिला \n\n
+
+        २. मरियेने एलिझाबेथची भेट घेतली.\n\n
+
+        ३. बाळ येशू गाईच्या गोठ्यात जन्मला\n\n
+
+        ४. मरियेने येशूबाळाला मंदिरात भेटवले\n\n
+
+        ५. येशू मंदिरात सापडला.\n\n\n
+
+        <font color="#D2042D">दुःखाची रहस्ये (मंगळवारी व शुक्रवारी)</font> \n\n
+
+        १. गेथसेमनी बागेत येशूला रक्ताचा घाम आला.\n\n
+
+        २. येशूच्या अंगावर फटके मारले.\n\n
+
+        ३. येशूच्या मस्तकावर काट्यांचा मुकुट घातला.\n\n
+
+        ४. येशूने भारी क्रूस वाहिला\n\n
+
+        ५. येशूला क्रुसावर खिळले.\n\n\n
+
+        <font color="#D2042D">प्रकाशाची रहस्ये (गुरूवारी)</font> \n\n
+
+        १. प्रभू येशूचा यार्देन नदीत बाप्तिस्मा झाला.\n\n
+
+        २. काना येथे प्रभू येशूने पाण्याचे द्राक्षारसात रूपांतर केले.\n\n
+
+        ३. प्रभू येशूने स्वर्गराज्याची घोषणा करून पश्चात्तापासाठी आवाहन केले.\n\n
+
+        ४. प्रभू येशूचे रूपांतर झाले.\n\n
+
+        ५. पास्का रहस्याची आठवण म्हणून प्रभू येशूने पवित्र मिस्साबलीची स्थापना केली.\n\n\n
+
+        <font color="#D2042D">गौरवाची रहस्ये (रविवारी व बुधवारी)</font>\n\n
+
+        १. येशू मेलेल्यातून तिसऱ्या दिवशी पुन्हा उठला.\n\n
+
+        २. येशू चाळीस दिवसानंतर स्वर्गात चढला.\n\n
+
+        ३. पवित्र आत्मा प्रेषितांवर उतरला.\n\n
+
+        ४. पवित्र मरिया सदेह स्वर्गात घेतली गेली. \n\n
+
+        ५. पवित्र मरिया स्वर्ग आणि पृथ्वीची राणी झाली
+
+    </string>
+    <string name="litany_mar">
+        मरियेची विनंतीमाला
+
+        हे ईश्वरा, आम्हावर दया कर,   <font color="#FFA500">हे ईश्वरा,आम्हावर दया कर,</font>\n
+
+        हे ख्रिस्ता, आम्हावर दया कर,   <font color="#FFA500">हे ख्रिस्ता,आम्हावर दया कर,</font>\n
+
+        हे ईश्वरा, आम्हावर दया कर,  <font color="#FFA500">हे ईश्वरा, आम्हावर दया कर,</font>\n
+
+        हे ख्रिस्ता, आमचे ऐक, <font color="#FFA500">हे ख्रिस्ता, आमचे ऐक,</font>\n
+
+        हे ख्रिस्ता, आमचे ऐकून घे, <font color="#FFA500">हे ख्रिस्ता, आमचे ऐकून घे,</font>\n\n
+
+        हे देवा, स्वर्गातील बापा,  <font color="#FFA500">आम्हावर दया कर</font>\n
+
+        हे देवपुत्रा, जगत्तारका,  <font color="#FFA500">आम्हावर दया कर</font>\n
+
+
+        हे देवा, पवित्र आत्म्या,  <font color="#FFA500">आम्हावर दया कर</font>\n
+
+
+        हे पवित्र त्रैक्या, एकच देवा,  <font color="#FFA500">आम्हावर दया कर</font>\n\n
+
+        हे पवित्र मरिये,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+
+        हे पवित्र देवमाते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        पवित्र कुमारींचे कुमारी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        ख्रिस्ताचे माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        ईश्वरकृपेचे माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        आशेचे माने,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        अतिशुद्ध माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+
+        अतिविरक्त माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        निर्दोष माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        निष्कलंक माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        प्रियकर माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        आश्चर्यकारक माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        चांगल्या मसलतीचे माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        उत्पन्नकर्त्याचे माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        तारणाऱ्याचे माते,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        अतिसमंजस कुमारी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        आदरणीय कुमारी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        स्तुतियोग्य कुमारी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        शक्तिमान कुमारी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        दयाळू कुमारी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        विश्वासू कुमारी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        नीतीच्या आरशा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        ज्ञानाच्या आसना,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        आमच्या आनंदाच्या कारणा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        परमार्थ बुद्धीच्या पात्रा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        सन्मानाच्या पात्रा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        सुभक्तीच्या उत्कृष्ट पात्रा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        रहस्यमय गुलाबा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        दाविदाच्या बुरूजा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        हस्तिदंती बुरूजा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        सोन्याच्या घरा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        कराराच्या कोशा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        स्वर्गाच्या दरवाजा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        सकाळच्या नक्षत्रा,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+        रोग्यांच्या आरोग्या,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        विस्थापित झालेल्यांचे सांत्वना,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        पाप्यांच्या आश्रया,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+
+        दुःखितांच्या सांत्वना,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        ख्रिस्तीजनांच्या सहाय्या,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        देवदूतांचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        आदिपितरांचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        भविष्यवाद्यांचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        प्रेषितांचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        रक्तसाक्ष्यांचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        वर्तनसाक्ष्यांचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        कुमारींचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        सर्व पवित्रांचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        मूळ पापावाचून संभवलेले राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        स्वर्गात सदेह नेलेले राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        पवित्र मालेचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        कुटुंबाचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n
+
+        शांततेचे राणी,  <font color="#FFA500">आम्हासाठी विनंती कर</font>\n \n
+
+        जगाची पापे दूर करणाऱ्या परमेश्वराच्या कोकरा <font color="#FFA500">आम्हाला माफ कर, हे प्रभो.</font>\n
+        जगाची पापे दूर करणाऱ्या परमेश्वराच्या कोकरा <font color="#FFA500">आमचे ऐकून घे. हे प्रभो</font>\n
+        जगाची पापे दूर करणाऱ्या परमेश्वराच्या कोकरा <font color="#FFA500">आम्हावर दया कर</font>\n\nआपण प्रार्थना करू या हे, \nपरमेश्वरा आम्हा तुझ्या सेवकांना आत्म्याचे व शरीराचे स्वास्थ्य नित्य लाभावे आणि नित्य कुमारी धन्य मरिया हिच्या प्रतापी याचनेने हल्लीच्या दुःखातून आम्ही मुक्त व्हावे व सर्वकाळचा आनंद उपभोगावा असे आम्हाला कृपादान दे. ही प्रार्थना आम्ही आमच्या प्रभुखिस्ताद्वारे करतो. \n\nआमेन
+
+    </string>
 
 </resources>

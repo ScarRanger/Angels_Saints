@@ -108,15 +108,11 @@ public class PrayerActivity2 extends AppCompatActivity {
 
         });
 
-        Button btn9 = (Button) findViewById(R.id.button8);
-        btn9.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(PrayerActivity2.this, Prayer_HolySpirit.class);
-                startActivity(intent);
+        Button btn9 = findViewById(R.id.button8);
+        btn9.setOnClickListener(view -> {
+            Intent intent = new Intent(PrayerActivity2.this, Prayer_HolySpirit.class);
+            startActivity(intent);
 
-
-            }
 
         });
 
@@ -131,6 +127,13 @@ public class PrayerActivity2 extends AppCompatActivity {
         Button btn11 = findViewById(R.id.button10);
         btn11.setOnClickListener(view -> {
             Intent intent = new Intent(PrayerActivity2.this, MysteryActivity.class);
+            startActivity(intent);
+
+
+        });
+        Button btn12 = findViewById(R.id.button12);
+        btn12.setOnClickListener(view -> {
+            Intent intent = new Intent(PrayerActivity2.this, LitanyActivity.class);
             startActivity(intent);
 
 
