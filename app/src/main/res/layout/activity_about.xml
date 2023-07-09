@@ -18,7 +18,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textStyle="bold"
-        android:text="Application Version 1.1"
+        android:text="Application Version 1.2.1"
         android:textAppearance="@style/TextAppearance.AppCompat.Large" />
 
     <LinearLayout android:layout_width="wrap_content"
